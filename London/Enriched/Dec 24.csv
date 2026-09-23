@@ -1,4 +1,4 @@
-company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 COMPUTER HYPE LTD,16111064,active,ltd,,,2024-12-01,,2024-12-01,[47410, 62020],129 Mile End Road London England E1 4BG,https://computerhype.co.uk/,enquiries@computerhype.co.uk,Confirmed
 AB MAESTRO LTD,16111471,active,ltd,,,2024-12-02,,2024-12-02,[90010, 90020],13, Jenner House, Flat 101 Skippers Yard London United Kingdom E3 2RE,,,
 APEX GLOBAL DIGITAL DESIGNS LTD,16111678,active,ltd,,,2024-12-02,,2024-12-02,[74100, 74201, 74202],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
@@ -1918,3 +1918,88 @@ ABS TECHNOLOGIES LIMITED,16153263,active,ltd,,,2024-12-27,,2024-12-27,[82990],5 
 EEC SERVICES LTD,16153360,active,ltd,,,2024-12-27,,2024-12-27,[74909],128 City Road London United Kingdom EC1V 2NX,,,
 ANTON POTAPOV GAMES LTD,16153508,active,ltd,,,2024-12-27,,2024-12-27,[58210],86-90 Paul Street London England EC2A 4NE,,,
 GOLDEN SUNRISE COFFEE LTD,16153676,active,ltd,,,2024-12-27,,2024-12-27,[56290],61 Forge Place Ferdinand Street London United Kingdom NW1 8DQ,,,
+ALEXANDER RESTAURANT LTD,16151960,active,ltd,,,2024-12-26,,2024-12-26,[56101],3rd Floor, 86-90 Paul Street London England EC2A 4NE,,,
+FORTUNA ACCOUNTING LTD,16152127,active,ltd,,,2024-12-26,,2024-12-26,[69201],43 George Elliston House London England SE1 5ET,,,
+BOOMSHAKALAK LIMITED,16152461,active,ltd,,,2024-12-27,,2024-12-27,[46190, 47910],128 City Road London United Kingdom EC1V 2NX,,,
+GIFTSOTSO LIMITED,16152675,active,ltd,,,2024-12-27,,2024-12-27,[84120],55 Salehurst Road London England SE4 1AR,,,
+STREAMLINED PROPERTIES LTD,16152680,active,ltd,,,2024-12-27,,2024-12-27,[68209],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+SPORT ARROW LIMITED,16152650,active,ltd,,,2024-12-27,,2024-12-27,[93290],254 Goldhawk Road London England W12 9PE,,,
+EL CHAY LIMITED,16152874,active,ltd,,,2024-12-27,,2024-12-27,[47910],16 Manor Road London England W13 0JA,,,
+FREETOLD LTD,16153027,active,ltd,,,2024-12-27,,2024-12-27,[62090, 63120, 63990, 68209],85, First Floor Great Portland Street London United Kingdom W1W 7LT,,,
+KHAMULA HOLDINGS LTD,16153189,active,ltd,,,2024-12-27,,2024-12-27,[64209],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+STARTUP SYLHET LTD,16153168,active,ltd,,,2024-12-27,,2024-12-27,[96090],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+FORONE LTD,16153149,active,ltd,,,2024-12-27,,2024-12-27,[47910],128 City Road London United Kingdom EC1V 2NX,,,
+GREENOVATION SOLUTIONS LTD,16153196,active,ltd,,,2024-12-27,,2024-12-27,[71121, 71122, 72190, 85590],107 Putney High Street London United Kingdom SW15 1SS,https://www.greenovation-solutions.co.uk/,,Likely
+BMC ADVISORY LTD,16153585,active,ltd,,,2024-12-27,,2024-12-27,[70221, 70229, 82990],108 Adelaide Grove London England W12 0JH,,,
+WIGAN WARWICK LTD,16153590,active,ltd,,,2024-12-27,,2024-12-27,[68100],106 Geldeston Road London United Kingdom E5 8RS,,,
+DAGITAB LIMITED,16153658,active,ltd,,,2024-12-27,,2024-12-27,[86900],Flat 39 Viridian Apartments London England SW8 4DA,,,
+GET WORKSY LTD,16156105,active,ltd,,,2024-12-30,,2024-12-30,[59112],85 Great Portland Street London England W1W 7LT,,,
+DELIVERANCE ENTERPRISES LTD,16156213,active,ltd,,,2024-12-30,,2024-12-30,[46510, 62020, 71122, 77390],20 Wenlock Road London England N1 7GU,,,
+WEST MIDS FINANCE LIMITED,16156287,active,ltd,,,2024-12-30,,2024-12-30,[69201],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+SUPERSEDED LIMITED,16156283,active,ltd,,,2024-12-30,,2024-12-30,[70229],11 Shakespeare Road London England W3 6SG,,,
+FREZZA LTD,16156374,active,ltd,,,2024-12-30,,2024-12-30,[47910],3rd Floor, 86-90 Paul Street London United Kingdom EC2A 4NE,,,
+TRADE FUSION LTD,16156496,active,ltd,,,2024-12-30,,2024-12-30,[46130, 46760],Cumberland House London England NW10 6RF,,,
+IMMANUEL FOODS LTD,16156671,active,ltd,,,2024-12-31,,2024-12-31,[10710, 47240, 56103, 56210],20 Wenlock Road London England N1 7GU,,,
+EVERYDAY ABAYAS LTD,16156727,active,ltd,,,2024-12-31,,2024-12-31,[47910],154 Langthorne Road London England E11 4HR,,,
+MODERNISTLY LTD,16156773,active,ltd,,,2024-12-31,,2024-12-31,[47910],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+IVFL LTD,16156838,active,ltd,,,2024-12-31,,2024-12-31,[86220, 86900],41 Stanlake Road London England W12 7HG,,,
+THE SHIELD EDUCATION LIMITED,16156899,active,ltd,,,2024-12-31,,2024-12-31,[85600],20 Hay Close London England E15 4HN,https://www.theshieldedu.com/,,Likely
+LA TOYA JACKSON LIFESTYLE HSS LTD,16155885,active,ltd,,,2024-12-30,,2024-12-30,[46420, 47710, 47910, 74100],Acumen, 37th Floor, 1 Canada Square London England E14 5DY,,,
+AARON & HUR ESTATES LTD,16157146,active,ltd,,,2024-12-31,,2024-12-31,[68100, 68310, 68320],20 Wenlock Road London England N1 7GU,,,
+LOTTIEBEL LIMITED,16157270,active,ltd,,,2024-12-31,,2024-12-31,[85100],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+MOTION REALTY LTD,16157268,active,ltd,,,2024-12-31,,2024-12-31,[68209, 68310],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+THOUGHT RELIANT LTD,16157351,active,ltd,,,2024-12-31,,2024-12-31,[74909],25 Grove Road London United Kingdom SW13 0HH,,,
+ARCHI AI LTD,16157352,active,ltd,,,2024-12-31,,2024-12-31,[63110, 63120],71-75 Shelton Street London United Kingdom WC2H 9JQ,https://archiai.co.uk/,,Likely
+VITAGEVITY LIMITED,16155998,active,ltd,,,2024-12-30,,2024-12-30,[46180, 46900, 47910, 82990],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+SABLECOVE LTD,16156004,active,ltd,,,2024-12-30,,2024-12-30,[47190, 47910],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+E & CC HOLDINGS LIMITED,16155994,active,ltd,,,2024-12-30,,2024-12-30,[64209],123 Pall Mall (Ground Floor) London United Kingdom SW1Y 5EA,,,
+RW STAYS LTD,16156051,active,ltd,,,2024-12-30,,2024-12-30,[68209, 68320],20 Wenlock Road London England N1 7GU,,,
+POSS GROUP LTD,16156055,active,ltd,,,2024-12-30,,2024-12-30,[49420, 52103],71-75 Shelton Street London United Kingdom WC2H 9JQ,https://www.possgroup.co.uk/,,Likely
+ONE MORE PAGE LTD,16156049,active,ltd,,,2024-12-30,,2024-12-30,[47910],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+NFK DIGITAL LTD,16156152,active,ltd,,,2024-12-30,,2024-12-30,[74909],Flat 28 Rathnew Court London England E2 0QG,,,
+SINGHA GLOBAL LTD,16147043,active,ltd,,,2024-12-20,,2024-12-20,[70229],3rd Floor 86-90 Paul Street London United Kingdom EC2A 4NE,,,
+TWENTY EIGHT REALTY LTD,16156268,active,ltd,,,2024-12-30,,2024-12-30,[68100, 68209, 68310, 68320],30 Wynnstay Gardens London England W8 6UR,,,
+AUXYLIA LTD,16156366,active,ltd,,,2024-12-30,,2024-12-30,[62012, 72200, 86900],32 Ponton Road London England SW11 7BA,https://www.auxylia.ai/,,Likely
+N.R.A TRADING LTD,16156360,active,ltd,,,2024-12-30,,2024-12-30,[47910, 93199],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+ZAHRIS LTD,16156668,active,ltd,,,2024-12-31,,2024-12-31,[47650],28 Perth Avenue London England NW9 7JT,,,
+QWIKSHIP LTD,16156756,active,ltd,,,2024-12-31,,2024-12-31,[46900, 47910],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+TIMELESS BEAUTY LTD,16156804,active,ltd,,,2024-12-31,,2024-12-31,[96020],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+REMBRANDT VAN WINE UK LIMITED,16156928,active,ltd,,,2024-12-31,,2024-12-31,[90040],Unit 1.3 Marlborough Rd 159-163 London United Kingdom N19 4NF,https://www.rembrandtvanwine.co.uk/,info@rembrandtvanwine.co.uk,Confirmed
+EPIC KIDS LTD,16156912,active,ltd,,,2024-12-31,,2024-12-31,[88990],89 Langham Road London England N15 3LR,,,
+NEDILIA LIMITED,16157432,active,ltd,,,2024-12-31,,2024-12-31,[70229],13 Summerhouse Road London England N16 0NA,,,
+QBIVIO UK ENERGY LIMITED,16155929,active,ltd,,,2024-12-30,,2024-12-30,[28250, 46740, 71122, 72190],71-75 Shelton Street London United Kingdom WC2H 9JQ,https://www.qbivio.co.uk/,uk@qbivio.com,Confirmed
+MARIEOLA LTD,16155932,active,ltd,,,2024-12-30,,2024-12-30,[47770, 47910],2nd Floor College House Ruislip, United Kingdom HA4 7AE,,,
+V M INVESTMENT LONDON LTD,16155937,active,ltd,,,2024-12-30,,2024-12-30,[41100, 68100],36 Glebe Road Finchley England N3 2AX,,,
+IRISH VAULT CO LTD,16156071,active,ltd,,,2024-12-30,,2024-12-30,[62020],84 Tivoli Road London England SE27 0EF,,,
+LEGACY AUTOMOTIVE LTD,16156228,active,ltd,,,2024-12-30,,2024-12-30,[71129],3rd Floor, 86-90 Paul Street London United Kingdom EC2A 4NE,,,
+ANDY HARTS FAST BURGER LTD,16156389,active,ltd,,,2024-12-30,,2024-12-30,[56101, 56103, 56210, 56290],Flat 24, Chessington Court London England N3 3DT,https://andyhartsfastburger.co.uk/,,Confirmed
+DASHA ELIZABETH LIMITED,16156539,active,ltd,,,2024-12-30,,2024-12-30,[62090],155 Milkwood Road London England SE24 0JB,,,
+DAMER LTD,16156608,active,ltd,,,2024-12-30,,2024-12-30,[86102],27 Riverside London England NW4 3TU,,,
+AMPHAM CONSULTING & TECHNOLGY LTD,16156868,active,ltd,,,2024-12-31,,2024-12-31,[62012, 62020, 70221, 70229],128 City Road London United Kingdom EC1V 2NX,,,
+JOYWOOD LIFE LIMITED,16156970,active,ltd,,,2024-12-31,,2024-12-31,[47890, 47990],128 City Road London United Kingdom EC1V 2NX,https://www.joywoodlife.com/,,Confirmed
+BLUEONYX PUBLISHING LTD,16156990,active,ltd,,,2024-12-31,,2024-12-31,[58110],Flat 3 Hutchinson House London England NW3 3PU,,,
+ZEPHYR WELLNESS LTD,16157107,active,ltd,,,2024-12-31,,2024-12-31,[85590],1a Acton Hill Mews London England W3 9QN,https://zephyrwellness.co.uk,,Likely
+SCC MANAGEMENT LTD,16157114,active,ltd,,,2024-12-31,,2024-12-31,[68209],128 City Road London United Kingdom EC1V 2NX,,,
+LKK DESIGN STUDIO LTD,16157204,active,ltd,,,2024-12-31,,2024-12-31,[74100],30 Hendham Road London England SW17 7DQ,,,
+AMOR THE AGENCY LTD,16157214,active,ltd,,,2024-12-31,,2024-12-31,[73110],85 Great Portland Street, First Floor London United Kingdom W1W 7LT,https://www.amortheagency.com,,Likely
+CARE CENTRED CARE LTD,16155912,active,ltd,,,2024-12-30,,2024-12-30,[87200, 87900],20 Wenlock Road London England N1 7GU,https://www.carecentredltd.co.uk,,Confirmed
+BLUSHING BEE LTD,16155910,active,ltd,,,2024-12-30,,2024-12-30,[47910],16 Cherrywood Close London England E3 2DQ,,,
+GG-792-089 LIMITED,16156138,active,ltd,,,2024-12-30,,2024-12-30,[68209],C/O Getground London England W6 0NB,,,
+ONE OV 1 LTD,16156122,active,ltd,,,2024-12-30,,2024-12-30,[90030],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+1PLANETDESIGN LIMITED,16156257,active,ltd,,,2024-12-30,,2024-12-30,[71111],71-75 Shelton Street London England WC2H 9JQ,,,
+AURALIS ASSOCIATES LIMITED,16156341,active,ltd,,,2024-12-30,,2024-12-30,[64303, 68209, 85600, 86900],2nd Floor College House Ruislip, United Kingdom HA4 7AE,,,
+ENERGA GROUP LTD.,16156443,active,ltd,,,2024-12-30,,2024-12-30,[27200, 27900, 29100, 71129],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+BLISSFUL ESTATES LTD,16156691,active,ltd,,,2024-12-31,,2024-12-31,[68100, 68209, 68320],2nd Floor College House Ruislip, United Kingdom HA4 7AE,,,
+AMAANI CONSULTANCY LTD,16156943,active,ltd,,,2024-12-31,,2024-12-31,[88990],89 Langham Road London England N15 3LR,,,
+65 EAST STREET LTD,16157082,active,ltd,,,2024-12-31,,2024-12-31,[68100, 68209, 68320, 82110],115 London Road Morden England SM4 5HP,,,
+ALIMEER LTD,16157073,active,ltd,,,2024-12-31,,2024-12-31,[47910],87 Bell Street London England NW1 6TB,,,
+OSORIO LTD,16157219,active,ltd,,,2024-12-31,,2024-12-31,[82110, 82190, 96090],79 Essex Road London England N1 2SF,,,
+EDGEH LTD,16157235,active,ltd,,,2024-12-31,,2024-12-31,[46450],128 City Road London United Kingdom EC1V 2NX,,,
+BUILDPACK INTERNATIONAL LTD,16157216,active,ltd,,,2024-12-31,,2024-12-31,[41100],2nd Floor College House Ruislip, United Kingdom HA4 7AE,,,
+MORLEY NEWCO LIMITED,16157305,active,ltd,,,2024-12-31,,2024-12-31,[64209],Kroll Advisory Limited, 6th Floor London United Kingdom SE1 9SG,,,
+ANDREW FISHER CONSULTING LIMITED,16157392,active,ltd,,,2024-12-31,,2024-12-31,[65202],192 Spring Grove Road Isleworth England TW7 4BG,https://andrewfisherconsulting.com,,Confirmed
+SOPHIE DATAGEN LTD,16157376,active,ltd,,,2024-12-31,,2024-12-31,[62012, 62020],128 City Road London United Kingdom EC1V 2NX,https://sophiedoc.ai,,Confirmed
+VINTIÉR LIMITED,16145588,active,ltd,,,2024-12-19,,2024-12-19,[47722, 47799],85 Great Portland Street London England W1W 7LT,,,
+INMAROSE SERVICES UK LTD,16145711,active,ltd,,,2024-12-20,,2024-12-20,[45320, 86900],Flat 1 Comet London England NW9 5NN,,,
+MARIKOKO LTD,16145752,active,ltd,,,2024-12-20,,2024-12-20,[47910, 74100, 96090],128 City Road London United Kingdom EC1V 2NX,https://keygenuine.com,,Confirmed
+BRAIN BODY AGENCY LIMITED,16145860,active,ltd,,,2024-12-20,,2024-12-20,[86900, 88990],Regent House London United Kingdom SE19 3HF,https://www.brainbodyagency.com,,Confirmed
