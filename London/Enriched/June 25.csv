@@ -1,4 +1,4 @@
-company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 KARSRUS LTD,16546779,active,ltd,,,2025-06-27,,2025-06-27,[82110],Suite 6, Terence House Thatcham United Kingdom RG18 4LQ,,,
 CACA&CONSTRUCTION LTD,16529326,active,ltd,,,2025-06-19,,2025-06-19,[41202, 42220, 81210],10 10 Cemetery Road London United Kingdom E7 9DG,,,
 PIERRE D'OR LIMITED,16495618,active,ltd,,,2025-06-04,,2025-06-04,[46130, 46730, 46760],Flat 2-4, 827-833 Wandsworth Road London England SW8 3JL,,,
@@ -647,3 +647,33 @@ ASCENDANT VENTURES LTD,16505443,active,ltd,,,2025-06-09,,2025-06-09,[47910, 6201
 STUDIO 7 HOLDINGS LTD.,16519131,active,ltd,,,2025-06-16,,2025-06-16,[64209, 64303],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
 AUDICON INTERNATIONAL LIMITED,16531611,active,ltd,,,2025-06-20,,2025-06-20,[26600, 46190, 46520, 47741],14 Wells View Drive London England BR2 9UL,,,
 BELVYN LTD,16501312,active,ltd,,,2025-06-06,,2025-06-06,[58290],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+SAYER AUTOS LTD,16505360,active,ltd,,,2025-06-09,,2025-06-09,[45200],3rd Floor, 86-90 Paul Street London England EC2A 4NE,,,
+SOANE VENTURES LIMITED,16518512,active,ltd,,,2025-06-14,,2025-06-14,[70229],11 Northumberland Place London England W2 5BS,,,
+AXISSL LTD,16521404,active,ltd,,,2025-06-16,,2025-06-16,[62012, 62020, 63120, 71122],71-75 Shelton Street London United Kingdom WC2H 9JQ,axissl.com,,Likely
+SERENDIPITY PSYCHOLOGY & CO LIMITED,16512147,active,ltd,,,2025-06-11,,2025-06-11,[86900],10 The Bow Brook London England E2 0PW,,,
+OPEN ROAD COPY LTD,16535818,active,ltd,,,2025-06-23,,2025-06-23,[73110, 90030],53, 33, Altima Court East Dulwich Road London United Kingdom SE22 9AL,,,
+TIME INTERNATIONAL EDUCATION LTD,16537568,active,ltd,,,2025-06-24,,2025-06-24,[85421, 85422],1 Fleet Place London England EC4M 7WS,,,
+AUDDR.AI LTD,16496843,active,ltd,,,2025-06-04,,2025-06-04,[15120, 62012, 74100],71-75 Shelton Street London United Kingdom WC2H 9JQ,auddr.ai,,Confirmed
+THE ATARAH HAIR LTD,16513451,active,ltd,,,2025-06-12,,2025-06-12,[96020],4 Woodberry Close London England NW7 1GD,theatarahair.com,,Confirmed
+DG INDUSTRIES LIMITED,16524490,active,ltd,,,2025-06-17,,2025-06-17,[45200, 70229, 82990],3rd Floor, 86-90 Paul Street London United Kingdom EC2A 4NE,,,
+LITTLE BANYAN TOYS LTD,16514137,active,ltd,,,2025-06-12,,2025-06-12,[47650, 58110],Flat 104 Woodford Court 33 Shepherds Bush Green London England W12 8QZ,,,
+MOTHER ISLAND LTD,16500257,active,ltd,,,2025-06-06,,2025-06-06,[96090],6 Yardley Lane London England E4 7RS,,,
+JAMESLY LTD,16517492,active,ltd,,,2025-06-13,,2025-06-13,[46450, 47910],C/O Paul Beare Ltd London United Kingdom W4 5LX,,,
+MAISON LA HEERA LTD,16536561,active,ltd,,,2025-06-23,,2025-06-23,[47710],98 Edith Grove London England SW10 0NH,,,
+TASKM8 LTD,16527524,active,ltd,,,2025-06-18,,2025-06-18,[47890, 47910, 62012],15 Chelsea Manor Street London England SW3 5PZ,taskm8.com,,Confirmed
+STERLING ROW LIMITED,16535682,active,ltd,,,2025-06-23,,2025-06-23,[58190],167-169 Great Portland Street London England W1W 5PF,,,
+SD TECHNOLOGY SERVICES LTD,16507549,active,ltd,,,2025-06-10,,2025-06-10,[62020],Unit 114 Unit 114, Brickfields Workspace London England E2 8HD,,,
+EMERALD INFINITY LIVING LTD,16497939,active,ltd,,,2025-06-05,,2025-06-05,[55900, 68209, 68320, 98000],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+THE VERDE ATELIER LTD,16501766,active,ltd,,,2025-06-06,,2025-06-06,[96090],138 Sinclair Road London England W14 0NL,theverdeatelier.com,,Confirmed
+KOHIMA GROUP LIMITED,16499958,active,ltd,,,2025-06-05,,2025-06-05,[46380, 47910, 47990, 70229],124 City Road London United Kingdom EC1V 2NX,,,
+FORTUNE PROPERTIES INVESTMENT LTD,16541151,active,ltd,,,2025-06-25,,2025-06-25,[68310],133b The Broadway Southall London England UB1 1LW,,,
+THE CONSCIOUS PSYCHIATRY GROUP LTD,16497635,active,ltd,,,2025-06-05,,2025-06-05,[86220, 86900],167-169 Great Portland Street London England W1W 5PF,,,
+THE HOME ACCESSORIES LTD,16499092,active,ltd,,,2025-06-05,,2025-06-05,[47190],72 Kingsland High Street London England E8 2NS,,,
+L'OFFICIEL UK PUBLISHING LIMITED,16515911,active,ltd,,,2025-06-13,,2025-06-13,[58142],40 Furnival Street Holborn London England EC1N 2LE,lofficieluk.com,,Confirmed
+SAMAXIFY LIMITED,16501873,active,ltd,,,2025-06-06,,2025-06-06,[70229],27 Old Gloucester Street London United Kingdom WC1N 3AX,,,
+ERGARIS ACADEMY LTD,16514103,active,ltd,,,2025-06-12,,2025-06-12,[62020, 72190, 85422, 85590],2750 Davenport House London England W1B 3HH,,,
+DUNNE ESTATES LTD,16511551,active,ltd,,,2025-06-11,,2025-06-11,[68100, 68209],11 Streatleigh Court London England SW16 1EG,,,
+TIMA CONSTRUCTION LTD,16544332,active,ltd,,,2025-06-26,,2025-06-26,[41201, 41202],13 Canada Avenue London England N18 1AS,,,
+BUILD BUSINESS HUB LTD,16517630,active,ltd,,,2025-06-13,,2025-06-13,[70229],Office 1492 60 Tottenham Court Road London United Kingdom W1T 2EW,,,
+THE HOME BITS LIMITED,16506771,active,ltd,,,2025-06-09,,2025-06-09,[47190],19 Gladstone Avenue London England N22 6JU,,,
+WJ ENTERPRISES LTD,16498313,active,ltd,,,2025-06-05,,2025-06-05,[49320],Flat 22 10 Beaufort Square London England NW9 5SQ,,,
