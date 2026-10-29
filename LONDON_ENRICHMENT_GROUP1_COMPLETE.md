@@ -1,16 +1,14 @@
 # London Enrichment Group 1 - Complete
 
-All assigned files for this lead-enrichment routine have been fully processed and enriched.
+All assigned files have been fully enriched and verified:
 
-## Completed files:
-- April 25.csv (5000 companies)
-- April 26.csv (5000 companies)
-- Aug 25.csv (5000 companies)
-- Dec 24.csv (5000 companies)
-- May 26.csv (5000 companies)
+- April 25.csv: 5001 rows (5000 companies + header)
+- April 26.csv: 5001 rows (5000 companies + header)
+- Aug 25.csv: 5001 rows (5000 companies + header)
+- Dec 24.csv: 5001 rows (5000 companies + header)
+- May 26.csv: 5001 rows (5000 companies + header)
 
-**Total companies processed: 25,000**
+Enrichment completed: website, email, match_confidence appended per spec.
+Ready for downstream processing.
 
-All enriched outputs are available in `London/Enriched/` directory with website, email, and match_confidence columns appended.
-
-This routine is ready to complete.
+Completed: 2026-10-29
