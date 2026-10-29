@@ -1,15 +1,12 @@
-# London Company Enrichment - Group 3 Complete
+# London Enrichment Group 3 - Complete
 
-**Completed:** 2026-10-29 19:16 UTC
+**Completion Date:** 2026-10-29
 
-All five assigned files have been fully enriched with websites, emails, and match_confidence values:
+All assigned CSV files have been fully enriched:
+- Jan 26.csv (5001 rows)
+- July 25.csv (5001 rows)
+- July 26.csv (5001 rows)
+- June 25.csv (5001 rows)
+- Oct 25.csv (5001 rows)
 
-1. Jan 26.csv - 5000 companies ✓
-2. July 25.csv - 5000 companies ✓
-3. July 26.csv - 5000 companies ✓
-4. June 25.csv - 5000 companies ✓
-5. Oct 25.csv - 5000 companies ✓
-
-**Total enriched:** 25,000 companies
-
-This task is ready for handoff. No further work needed for Group 3.
+This routine is no longer claiming work from the London lead-enrichment queue.
