@@ -1,12 +1,13 @@
 # London Enrichment Group 1 - Complete
 
-All five assigned files have been fully enriched.
+This routine has completed enrichment of all assigned CSV files:
 
-**Status:**
-- April 25.csv: 5001 rows (complete)
-- April 26.csv: 5001 rows (complete)
-- Aug 25.csv: 5001 rows (complete)
-- Dec 24.csv: 5001 rows (complete)
-- May 26.csv: 5001 rows (complete)
+- April 25.csv: 5001 rows ✓
+- April 26.csv: 5001 rows ✓
+- Aug 25.csv: 5001 rows ✓
+- Dec 24.csv: 5001 rows ✓
+- May 26.csv: 5001 rows ✓
 
-Group 1 work is finished. Releasing to next available group.
+All source files have been fully enriched with website, email, and match_confidence columns and written to London/Enriched/ with matching row counts.
+
+Completed: 2026-10-30
