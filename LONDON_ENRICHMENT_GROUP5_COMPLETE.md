@@ -1,13 +1,17 @@
 # London Enrichment Group 5 - Complete
 
-Completed: 2026-10-30
+All assigned files have been fully enriched and verified:
 
-All four assigned files fully processed:
-- May 26.csv: 5001 rows (header + 5000 companies)
-- Nov 25.csv: 5001 rows (header + 5000 companies)
-- Oct 25.csv: 5001 rows (header + 5000 companies)
-- Sept 25.csv: 5001 rows (header + 5000 companies)
+- **May 26.csv**: 5000 companies (188 Confirmed, 153 Likely, 4659 blank)
+- **Nov 25.csv**: 5000 companies (378 Confirmed, 158 Likely, 4464 blank)
+- **Oct 25.csv**: 5000 companies (379 Confirmed, 188 Likely, 4433 blank)
+- **Sept 25.csv**: 5000 companies (296 Confirmed, 162 Likely, 4542 blank)
 
-Total: 20,000 companies enriched
+**Total: 20,000 companies processed**
+- Confirmed: 1,241
+- Likely: 661
+- No match found: 18,098
 
-All results written to London/Enriched/ directory with website, email, and match_confidence fields appended.
+All enriched files are in `London/Enriched/` directory with standard format (11 source columns + website, email, match_confidence).
+
+Completed on 2026-10-30.
