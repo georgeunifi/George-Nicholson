@@ -1,14 +1,16 @@
 # London Enrichment Group 1 - Complete
 
-All five assigned CSV files have been fully enriched with website, email, and match_confidence data.
+All assigned files have been successfully enriched and row counts verified:
 
-## Files Completed
-- April 25.csv: 5000 companies
-- April 26.csv: 5000 companies
-- Aug 25.csv: 5000 companies
-- Dec 24.csv: 5000 companies
-- May 26.csv: 5000 companies
+- April 25.csv: 5000 companies → 5000 rows processed ✓
+- April 26.csv: 5000 companies → 5000 rows processed ✓
+- Aug 25.csv: 5000 companies → 5000 rows processed ✓
+- Dec 24.csv: 5000 companies → 5000 rows processed ✓
+- May 26.csv: 5000 companies → 5000 rows processed ✓
 
-**Status**: All files at 100% completion (5001 rows including header)
+Total: 25,000 companies enriched with website and email data.
 
-Completed on: 2026-10-30
+Enriched output files are in London/Enriched/ with 14-column format:
+[11 source columns] + website + email + match_confidence
+
+Completed: 2026-10-30
