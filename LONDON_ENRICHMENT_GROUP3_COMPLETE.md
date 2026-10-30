@@ -1,11 +1,12 @@
-# London Enrichment — Group 3 Complete
+# London Enrichment Group 3 - Complete
 
-All assigned files have been fully enriched (row counts match source exactly):
+This group's work is complete as of 2026-10-30.
 
-1. Jan 26.csv — 5000 companies
-2. July 25.csv — 5000 companies
-3. July 26.csv — 5000 companies
-4. June 25.csv — 5000 companies
-5. Oct 25.csv — 5000 companies
+All five assigned files have been fully enriched:
+- Jan 26.csv: 5000 companies ✓
+- July 25.csv: 5000 companies ✓
+- July 26.csv: 5000 companies ✓
+- June 25.csv: 5000 companies ✓
+- Oct 25.csv: 5000 companies ✓
 
-No further work remains for this routine's assigned file list.
+Results are in `London/Enriched/` folder with website and email enrichment.
