@@ -1,14 +1,13 @@
 # London Enrichment Group 4 - Complete
 
-All assigned files have been fully enriched with website and email data.
+All assigned files have been fully enriched and completed:
 
-**Files completed:**
-- June 26.csv (5001 rows)
-- March 25.csv (5001 rows)
-- March 26.csv (5001 rows)
-- May 25.csv (5001 rows)
-- Sept 25.csv (5001 rows)
+- June 26.csv: 5000 rows ✓
+- March 25.csv: 5000 rows ✓
+- March 26.csv: 5000 rows ✓
+- May 25.csv: 5000 rows ✓
+- Sept 25.csv: 5000 rows ✓
 
-**Status:** All source rows matched with enriched output. Task is complete.
+Total: 25,000 companies enriched
 
-Completed: 2026-10-30
+Completion timestamp: 2026-10-30
