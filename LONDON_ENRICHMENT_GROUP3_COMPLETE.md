@@ -1,12 +1,19 @@
 # London Enrichment Group 3 - Complete
 
-This group's work is complete as of 2026-10-30.
+All assigned files have been fully enriched with website and email data.
 
-All five assigned files have been fully enriched:
-- Jan 26.csv: 5000 companies ✓
-- July 25.csv: 5000 companies ✓
-- July 26.csv: 5000 companies ✓
-- June 25.csv: 5000 companies ✓
-- Oct 25.csv: 5000 companies ✓
+**Files completed:**
+- Jan 26.csv (5000 companies)
+- July 25.csv (5000 companies)
+- July 26.csv (5000 companies)
+- June 25.csv (5000 companies)
+- Oct 25.csv (5000 companies)
 
-Results are in `London/Enriched/` folder with website and email enrichment.
+**Total: 25,000 companies enriched**
+
+All row counts verified against source files. Enrichment includes:
+- website (confirmed/likely/blank)
+- email (from search results only)
+- match_confidence (Confirmed/Likely/blank)
+
+Completed on 2026-10-30 by Claude Haiku 4.5
