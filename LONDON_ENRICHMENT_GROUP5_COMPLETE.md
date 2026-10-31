@@ -1,14 +1,14 @@
 # London Enrichment Group 5 - Complete
 
-All 4 assigned files have been successfully enriched and written to `London/Enriched/`:
+All four assigned files have been successfully enriched and are ready for use.
 
-- May 26.csv: 5,000 companies (complete)
-- Nov 25.csv: 5,000 companies (complete)  
-- Oct 25.csv: 5,000 companies (complete)
-- Sept 25.csv: 5,000 companies (complete)
+## Files Completed
+- May 26.csv (5000 companies)
+- Nov 25.csv (5000 companies)
+- Oct 25.csv (5000 companies)
+- Sept 25.csv (5000 companies)
 
-**Total: 20,000 companies enriched**
+## Status
+All 20,000 companies have been enriched with website and email information where available. Each record includes match_confidence ratings (Confirmed, Likely, or blank).
 
-All files match source row counts exactly. Work complete.
-
-Completion timestamp: 2026-10-31
+Completed: 2026-10-31
