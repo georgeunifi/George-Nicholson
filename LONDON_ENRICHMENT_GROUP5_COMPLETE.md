@@ -1,12 +1,15 @@
 # London Enrichment Group 5 - Complete
 
-All four assigned CSV files have been fully enriched and written to `London/Enriched/`:
+All assigned files have been fully enriched and pushed to origin/main.
 
-- May 26.csv: 5000 companies processed
-- Nov 25.csv: 5000 companies processed
-- Oct 25.csv: 5000 companies processed
-- Sept 25.csv: 5000 companies processed
+**Files completed:**
+- May 26.csv (5,000 companies)
+- Nov 25.csv (5,000 companies)
+- Oct 25.csv (5,000 companies)
+- Sept 25.csv (5,000 companies)
 
 **Total: 20,000 companies enriched**
 
-All source rows matched with website and email data where available. Completed: 2026-10-31.
+All rows matched against London/Enriched/ confirm full completion. No further work required for this group.
+
+Routine completed: 2026-10-31
