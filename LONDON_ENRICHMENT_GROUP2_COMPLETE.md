@@ -1,13 +1,15 @@
 # London Enrichment Group 2 - Complete
 
-All assigned files fully enriched and committed to origin/main:
-- Dec 25.csv ✓ (5000 companies)
-- Feb 25.csv ✓ (5000 companies)
-- Feb 26.csv ✓ (5000 companies)
-- Jan 25.csv ✓ (5000 companies)
-- Nov 25.csv ✓ (5000 companies)
+All assigned files have been fully enriched and completed:
 
-**Total: 25,000 companies enriched**
+- Dec 25.csv: 5001 rows ✓
+- Feb 25.csv: 5001 rows ✓
+- Feb 26.csv: 5001 rows ✓
+- Jan 25.csv: 5001 rows ✓
+- Nov 25.csv: 5001 rows ✓
 
-Completed by: Claude Haiku 4.5 (scheduled routine)
-Date: 2026-10-31
+**Total companies processed: 25,005**
+
+All rows enriched with website, email, and match_confidence columns. Ready for handoff.
+
+Completion date: 2026-10-31
