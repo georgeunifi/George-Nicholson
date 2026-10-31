@@ -1,1 +1,9 @@
-Group 5 London enrichment complete - all 4 files (May 26, Nov 25, Oct 25, Sept 25) have 5000 companies enriched each.
+# London Enrichment Group 5 Complete
+
+All assigned files have been enriched:
+- May 26.csv: 5001 rows ✓
+- Nov 25.csv: 5001 rows ✓
+- Oct 25.csv: 5001 rows ✓
+- Sept 25.csv: 5001 rows ✓
+
+Enrichment task complete.
