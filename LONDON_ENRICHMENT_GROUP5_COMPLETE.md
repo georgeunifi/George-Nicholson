@@ -1,14 +1,11 @@
-# London Enrichment Group 5 - Completion Marker
+# London Enrichment Group 5 - Complete
 
-All four assigned CSV files have been fully enriched and processed:
+All four assigned files have been fully processed and enriched:
+- May 26.csv: 5000 companies (5001 lines including header) ✓
+- Nov 25.csv: 5000 companies (5001 lines including header) ✓
+- Oct 25.csv: 5000 companies (5001 lines including header) ✓
+- Sept 25.csv: 5000 companies (5001 lines including header) ✓
 
-- May 26.csv: 5000 companies (5001 rows including header)
-- Nov 25.csv: 5000 companies (5001 rows including header)  
-- Oct 25.csv: 5000 companies (5001 rows including header)
-- Sept 25.csv: 5000 companies (5001 rows including header)
+Total: 20,000 companies enriched
 
-**Total: 20,000 companies enriched**
-
-Output files located in London/Enriched/ with enriched website, email, and match_confidence columns.
-
-Completion date: 2026-10-31
+Completion Date: 2026-10-31
