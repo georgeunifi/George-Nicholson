@@ -1,15 +1,19 @@
-# London Enrichment - Group 3 Complete
+# London Enrichment Group 3 - Complete
 
-**Date:** 2026-10-31  
-**Status:** FINISHED
+All assigned files for Group 3 have been successfully enriched and completed:
 
-All assigned files have been fully enriched:
-- Jan 26.csv: 5000 rows ✓
-- July 25.csv: 5000 rows ✓
-- July 26.csv: 5000 rows ✓
-- June 25.csv: 5000 rows ✓
-- Oct 25.csv: 5000 rows ✓
+- Jan 26.csv: 5000 companies processed
+- July 25.csv: 5000 companies processed
+- July 26.csv: 5000 companies processed
+- June 25.csv: 5000 companies processed
+- Oct 25.csv: 5000 companies processed
 
-Total companies processed: **25,000**
+**Total: 25,000 companies enriched**
 
-Enrichment methodology: WebSearch with quoted company name + location, excluding business directories and gov.uk listings. Match confidence marked as "Confirmed" (explicit match), "Likely" (plausible), or blank if nothing plausible found.
+All enriched files contain the required columns:
+- Original 11 source columns (company name, number, status, type, subtype, dissolution date, incorporation date, removed date, registered date, nature of business, registered office address)
+- Website (where found via WebSearch)
+- Email (where found in search results)
+- Match confidence (Confirmed, Likely, or blank)
+
+Completion date: 2026-10-31
