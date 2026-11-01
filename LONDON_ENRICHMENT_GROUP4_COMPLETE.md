@@ -1,10 +1,13 @@
-# London Enrichment Group 4 Complete
+# London Enrichment Group 4 - Complete
 
-All 5 assigned files completed on 2026-11-01:
-- June 26.csv: 5001 rows (5000 companies + header)
-- March 25.csv: 5001 rows
-- March 26.csv: 5001 rows
-- May 25.csv: 5001 rows
-- Sept 25.csv: 5001 rows
+All assigned files have been fully enriched and committed to origin/main:
 
-All files enriched with website and contact email data via WebSearch. Job finished.
+- June 26.csv (5000 companies)
+- March 25.csv (5000 companies)
+- March 26.csv (5000 companies)
+- May 25.csv (5000 companies)
+- Sept 25.csv (5000 companies)
+
+This routine has completed all work and will not claim additional tasks.
+
+Completed: 2026-11-01
