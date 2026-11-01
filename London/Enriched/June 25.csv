@@ -1,4 +1,4 @@
-company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 KARSRUS LTD,16546779,active,ltd,,,2025-06-27,,2025-06-27,[82110],Suite 6, Terence House Thatcham United Kingdom RG18 4LQ,,,
 CACA&CONSTRUCTION LTD,16529326,active,ltd,,,2025-06-19,,2025-06-19,[41202, 42220, 81210],10 10 Cemetery Road London United Kingdom E7 9DG,,,
 PIERRE D'OR LIMITED,16495618,active,ltd,,,2025-06-04,,2025-06-04,[46130, 46730, 46760],Flat 2-4, 827-833 Wandsworth Road London England SW8 3JL,,,

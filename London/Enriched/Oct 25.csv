@@ -1,4 +1,4 @@
-company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 REGENCY CONCERTS LIMITED,16791955,active,ltd,,,2025-10-17,,2025-10-17,[93290],Lynton House London United Kingdom WV1H 9BQ,,,
 ACJ NORMAN & CO LTD,16788417,active,ltd,,,2025-10-16,,2025-10-16,[70229],87 Chancery Lane London United Kingdom WC2A 1ET,,,
 ANIS VIRANI ART STUDIO LTD,16787002,active,ltd,,,2025-10-15,,2025-10-15,[47910],Suite C196 4-6 Greatorex Street London E1 5NF,,,

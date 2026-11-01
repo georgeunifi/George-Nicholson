@@ -1,4 +1,4 @@
-company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 EG35 LIMITED,16594392,active,ltd,,,2025-07-21,,2025-07-21,[63990],Flat 21 Barnabas House London England EC1V 8BY,,,
 SPENCER MEWS B1 MANAGEMENT LIMITED,16597058,active,ltd,,,2025-07-21,,2025-07-21,[68320],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
 SURVIVE THE 8 LTD,16565067,active,ltd,,,2025-07-07,,2025-07-07,[93199],71-75 Shelton Street London England WC2H 9JQ,survivethe8.com,,Likely

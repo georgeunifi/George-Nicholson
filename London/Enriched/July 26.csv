@@ -1,4 +1,4 @@
-company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 WASEEM ABBAS LTD,17310925,active,ltd,,,2026-07-01,,2026-07-01,[47910, 47990],37 Sanderstead Road London United Kingdom E10 7PW,,,
 ONEMONEY SOLUTIONS LTD,17310921,active,ltd,,,2026-07-01,,2026-07-01,[62012],Flat C Peterborough England PE2 9BT,,,
 COMPLETE DAMP SOLUTIONS LTD,17310929,active,ltd,,,2026-07-01,,2026-07-01,[81222],Basement Flat London England N16 5PT,,,
