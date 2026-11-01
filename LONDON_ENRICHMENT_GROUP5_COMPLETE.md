@@ -1,13 +1,15 @@
 # London Enrichment Group 5 - Complete
 
-All assigned files for this enrichment group have been processed and completed:
+**Status:** All assigned files completed
 
-- May 26.csv: 5000 companies enriched
-- Nov 25.csv: 5000 companies enriched
-- Oct 25.csv: 5000 companies enriched
-- Sept 25.csv: 5000 companies enriched
+**Files processed:**
+- May 26.csv: 5,000 companies
+- Nov 25.csv: 5,000 companies
+- Oct 25.csv: 5,000 companies
+- Sept 25.csv: 5,000 companies
 
-Total: 20,000 companies processed
-Status: All files complete and verified
+**Total:** 20,000 companies enriched
 
-Completed: 2026-11-01
+**Completion date:** 2026-11-01
+
+All assigned work for this group has been completed.
