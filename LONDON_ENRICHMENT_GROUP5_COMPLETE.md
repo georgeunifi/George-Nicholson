@@ -1,11 +1,13 @@
-# London Enrichment Group 5 - Complete
+# London Enrichment Group 5 - Completed
 
-All four assigned CSV files have been fully enriched:
-- May 26.csv: 5000 companies processed
-- Nov 25.csv: 5000 companies processed
-- Oct 25.csv: 5000 companies processed
-- Sept 25.csv: 5000 companies processed
+This enrichment group (George Nicholson) has completed processing all assigned files:
 
-Total: 20,000 companies enriched with website and email data.
+- May 26.csv: 5000 companies ✓
+- Nov 25.csv: 5000 companies ✓
+- Oct 25.csv: 5000 companies ✓
+- Sept 25.csv: 5000 companies ✓
 
-Completion date: 2026-11-01
+**Total: 20,000 companies processed**
+
+All files have been enriched with website and email data where available.
+Completion timestamp: 2026-11-01
