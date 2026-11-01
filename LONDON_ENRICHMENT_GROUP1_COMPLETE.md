@@ -1,16 +1,15 @@
-# London Enrichment Group 1 - Complete
+# Group 1 Lead Enrichment - Completion
 
-This enrichment routine has completed all assigned CSV files:
+All assigned files have been successfully enriched with website and email data:
 
-- April 25.csv: 5000 companies enriched ✓
-- April 26.csv: 5000 companies enriched ✓
-- Aug 25.csv: 5000 companies enriched ✓
-- Dec 24.csv: 5000 companies enriched ✓
-- May 26.csv: 5000 companies enriched ✓
+- April 25.csv: 5000 companies ✓
+- April 26.csv: 5000 companies ✓
+- Aug 25.csv: 5000 companies ✓
+- Dec 24.csv: 5000 companies ✓
+- May 26.csv: 5000 companies ✓
 
-Total: 25,000 companies processed
+**Total: 25,000 companies enriched**
 
-All files have matching row counts between source and enriched output.
-Completion marker placed: 2026-11-01
+Each row includes columns for website URL, contact email, and match confidence (Confirmed/Likely/blank).
 
-No further work to claim on this routine.
+Completion timestamp: 2026-11-01
