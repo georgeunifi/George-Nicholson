@@ -1,16 +1,16 @@
 # London Enrichment Group 1 - Complete
 
-This marker file indicates that all assigned enrichment work for Group 1 has been completed.
+This enrichment routine has completed all assigned CSV files:
 
-**Completed files:**
-- April 25.csv (5000 companies)
-- April 26.csv (5000 companies)
-- Aug 25.csv (5000 companies)
-- Dec 24.csv (5000 companies)
-- May 26.csv (5000 companies)
+- April 25.csv: 5000 companies enriched ✓
+- April 26.csv: 5000 companies enriched ✓
+- Aug 25.csv: 5000 companies enriched ✓
+- Dec 24.csv: 5000 companies enriched ✓
+- May 26.csv: 5000 companies enriched ✓
 
-**Total companies enriched: 25,000**
+Total: 25,000 companies processed
 
-All companies have been searched for website and email information. Results are recorded in London/Enriched/ with match_confidence levels: Confirmed, Likely, or blank.
+All files have matching row counts between source and enriched output.
+Completion marker placed: 2026-11-01
 
-Completion date: 2026-11-01
+No further work to claim on this routine.
