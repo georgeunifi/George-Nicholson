@@ -1,6 +1,6 @@
 company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 TAG FINANCIAL SERVICES LTD,16383691,active,ltd,,,2025-04-12,,2025-04-12,[64922],124 City Road City Road London England EC1V 2NX,,,
-GAAQ CONSULTING UK LTD,16395243,active,ltd,,,2025-04-17,,2025-04-17,[69202],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+GAAQ CONSULTING UK LTD,16395243,active,ltd,,,2025-04-17,,2025-04-17,[69202],71-75 Shelton Street London United Kingdom WC2H 9JQ,gaaq.in,business@gaaq.in,Likely
 LONDON ROSE INTERNATIONAL LIMITED,16369605,active,ltd,,,2025-04-07,,2025-04-07,[46450, 47750, 47910],399 - 405 Oxford Street London England W1C 2BU,,,
 NEBULA INSIGHT AND CONSULTING LTD,16367629,active,ltd,,,2025-04-06,,2025-04-06,[73200],85 Great Portland Street London England W1W 7LT,,,
 BACO REGNUM WINES LTD,16397017,active,ltd,,,2025-04-21,,2025-04-21,[46342, 47910, 82990],86-90 Paul Street London England EC2A 4NE,,,
@@ -17,7 +17,7 @@ ALLMORE LIMITED,16420313,active,ltd,,,2025-04-30,,2025-04-30,[70229],106 Streath
 BARUAH HEALTHCARE LTD,16381478,active,ltd,,,2025-04-11,,2025-04-11,[86210],78 Western Beach Apartments London United Kingdom E16 1DZ,,,
 KAHAK CONSULTING LIMITED,16370478,active,ltd,,,2025-04-07,,2025-04-07,[42990],105 Selsdon Road Upton Park United Kingdom E13 9BZ,,,
 SLOW RELEASE LTD.,16418719,active,ltd,,,2025-04-29,,2025-04-29,[14190, 46190, 70229],31 Greville Road London United Kingdom E17 9HG,,,
-MAMMAS PIZZA AND CHICKEN LTD,16368960,active,ltd,,,2025-04-07,,2025-04-07,[56103],233 Plaistow London England E15 3EU,mammaspizzaandchicken.co.uk,,Confirmed
+MAMMAS PIZZA AND CHICKEN LTD,16368960,active,ltd,,,2025-04-07,,2025-04-07,[56103],233 Plaistow London England E15 3EU,mammaspizzaandchicken.co.uk,,Confirmed,mammaspizzaandchicken.co.uk,,Confirmed
 LONDON EDUCATION AND TRAINING LTD,16404642,active,ltd,,,2025-04-24,,2025-04-24,[85590],Unit 136, East London Works London United Kingdom E1 1DU,,,,mammaspizzaandchicken.co.uk,,Confirmed
 YESSING LTD,16407693,active,ltd,,,2025-04-25,,2025-04-25,[46420, 47190, 47910],11 Blenheim Crescent London United Kingdom W11 2EE,,,
 PAI DEFENCE LTD,16419655,active,ltd,,,2025-04-30,,2025-04-30,[26511, 71122, 80200],3rd Floor Suite London England W1B 3HH,,,
@@ -44,7 +44,7 @@ NUVANA LIVING LTD,16409611,active,ltd,,,2025-04-25,,2025-04-25,[68100, 68209],C/
 TORTOISE & HARE RUNNING LTD,16404213,active,ltd,,,2025-04-23,,2025-04-23,[14190, 47910],Dalton House London England SW19 2RR,,,
 FWALCOX ECOMMERCE LTD,16415397,active,ltd,,,2025-04-29,,2025-04-29,[47990],144 Sibley Grove London United Kingdom E12 6SF,,,
 WOVEN HIJABS LIMITED,16401116,active,ltd,,,2025-04-23,,2025-04-23,[47910],128 City Road London England EC1V 2NX,,,
-TASHA FREEMAN LTD,16373829,active,ltd,,,2025-04-08,,2025-04-08,[74100],55 Lonsdale Road London England NW6 6RA,,,
+TASHA FREEMAN LTD,16373829,active,ltd,,,2025-04-08,,2025-04-08,[74100],55 Lonsdale Road London England NW6 6RA,tashafreeman.co.uk,,Confirmed
 16364417 LTD,16364417,active,ltd,,,2025-04-04,,2025-04-04,[87300],14 Gorefield Place London England NW6 5FG,,,
 EFG COMMODITIES LTD,16401978,active,ltd,,,2025-04-23,,2025-04-23,[46711, 52230, 96090],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
 PACK&ATTACK REMOVALS LTD,16410087,active,ltd,,,2025-04-25,,2025-04-25,[38110, 49420],Office 13804 182-184 High Street North London England E6 2JA,,,
