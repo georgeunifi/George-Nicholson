@@ -1,11 +1,11 @@
 company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 JOIN PARURE LTD,17201320,active,ltd,,,2026-05-06,,2026-05-06,[96090],71-75 Shelton Street London United Kingdom WC2H 9JQ,joinparure.com,,Confirmed
-WINNOW ARCHIVE LIMITED,17201321,active,ltd,,,2026-05-06,,2026-05-06,[47910],123 Peel Road London United Kingdom E18 2LJ,,,
+WINNOW ARCHIVE LIMITED,17201321,active,ltd,,,2026-05-06,,2026-05-06,[47910],123 Peel Road London United Kingdom E18 2LJ,winnowarchive.com,,Confirmed
 FIDELITY AUTOS LTD,17201302,active,ltd,,,2026-05-06,,2026-05-06,[45112],8c Hayland Close London United Kingdom NW9 0LH,,,
 SPRK TECH LIMITED,17201338,active,ltd,,,2026-05-06,,2026-05-06,[62020],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,Likely
 BALTREACY HOLDINGS LTD,17201294,active,ltd,,,2026-05-06,,2026-05-06,[70229],68 Borough Road London United Kingdom SE1 1DX,,,
 RIDER LINK LTD,17201307,active,ltd,,,2026-05-06,,2026-05-06,[49320],16 Boston House 45 Larson Walk London England E14 9HT,,,
-STUDIO DE LA HAYE - DESIGN AND ARCHITECTURE LTD,17201443,active,ltd,,,2026-05-06,,2026-05-06,[71111, 74100, 74201, 96090],71-75 Shelton Street London United Kingdom WC2H 9JQ,studiodelahaye.com,tristan@studiodelahaye.com,Confirmed
+STUDIO DE LA HAYE - DESIGN AND ARCHITECTURE LTD,17201443,active,ltd,,,2026-05-06,,2026-05-06,[71111, 74100, 74201, 96090],71-75 Shelton Street London United Kingdom WC2H 9JQ,studiodelahaye.com,,Likely
 HELLO SISTER PRODUCTIONS LIMITED,17201425,active,ltd,,,2026-05-06,,2026-05-06,[59111],4th Floor Elsley Court London United Kingdom W1W 8BE,,,
 HAYES CC LTD,17201520,active,ltd,,,2026-05-06,,2026-05-06,[68100, 68209],J S Gulati & Co Machine Works House Hayes England UB3 1FD,,,
 LITTLE BRONZE STUDIO LTD,17201579,active,ltd,,,2026-05-06,,2026-05-06,[23410, 47910],66 Paul Street London United Kingdom EC2A 4NA,,,Likely
