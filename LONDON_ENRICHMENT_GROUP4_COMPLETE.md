@@ -1,14 +1,15 @@
 # London Enrichment Group 4 - Completion
 
-Routine completion timestamp: 2026-11-02
+**Date**: 2026-11-02
 
-All five assigned files have been fully enriched:
-- June 26.csv: 5000 companies ✓
-- March 25.csv: 5000 companies ✓
-- March 26.csv: 5000 companies ✓
-- May 25.csv: 5000 companies ✓
-- Sept 25.csv: 5000 companies ✓
+All assigned files have been fully enriched and verified:
 
-Total: 25,000 companies enriched with website and email data.
+- June 26.csv: 5001 rows (5000 companies)
+- March 25.csv: 5001 rows (5000 companies)
+- March 26.csv: 5001 rows (5000 companies)
+- May 25.csv: 5001 rows (5000 companies)
+- Sept 25.csv: 5001 rows (5000 companies)
 
-All files written to `London/Enriched/` with 14-column format (11 source + website + email + match_confidence).
+**Total**: 25,000 companies successfully processed and enriched with website and email data.
+
+This routine claims no further work.
