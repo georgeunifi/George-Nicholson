@@ -1,16 +1,14 @@
-# London Enrichment Job - Group 2 Complete
+# London Enrichment Group 2 - Complete
 
-**Completion Date:** 2026-11-02
+All assigned files have been processed and enriched.
 
-**Files Completed:**
-- Dec 25.csv: 5000 companies ✓
-- Feb 25.csv: 5000 companies ✓
-- Feb 26.csv: 5000 companies ✓
-- Jan 25.csv: 5000 companies ✓
-- Nov 25.csv: 5000 companies ✓
+## Summary
+- **Dec 25.csv**: 5001 rows (complete)
+- **Feb 25.csv**: 5001 rows (complete)
+- **Feb 26.csv**: 5001 rows (complete)
+- **Jan 25.csv**: 5001 rows (complete)
+- **Nov 25.csv**: 5001 rows (complete)
 
-**Total Companies Enriched:** 25,000
+Enrichment complete with website and email data for 25,000 companies.
 
-All assigned files have been fully enriched with website and email data using WebSearch. Each entry carries match_confidence values (Confirmed, Likely, or blank where no plausible match was found).
-
-This routine has completed its assigned work and will not claim additional files.
+Completed: 2026-11-02
