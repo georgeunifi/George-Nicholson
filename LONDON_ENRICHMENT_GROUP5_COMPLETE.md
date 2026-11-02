@@ -1,12 +1,11 @@
-# London Enrichment Group 5 - Complete
+# London Enrichment - Group 5 Complete
 
-All assigned files have been fully enriched and processed:
+**Date:** 2026-11-02
 
-- May 26.csv: 5001 rows (✓ complete)
-- Nov 25.csv: 5001 rows (✓ complete)
-- Oct 25.csv: 5001 rows (✓ complete)
-- Sept 25.csv: 5001 rows (✓ complete)
+All assigned files have been fully enriched:
+- May 26.csv: 5000 companies ✓
+- Nov 25.csv: 5000 companies ✓
+- Oct 25.csv: 5000 companies ✓
+- Sept 25.csv: 5000 companies ✓
 
-All files have matching source and enriched row counts. Enrichment job is finished.
-
-Completed: 2026-11-02
+**Status:** All files match source row counts. Enrichment complete.
