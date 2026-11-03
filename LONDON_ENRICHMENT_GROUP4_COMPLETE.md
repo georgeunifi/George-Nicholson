@@ -1,14 +1,12 @@
 # London Enrichment Group 4 - Complete
 
-**Completion Date:** 2026-11-03
+All assigned files have been fully enriched:
+- June 26.csv: 5000 companies
+- March 25.csv: 5000 companies
+- March 26.csv: 5000 companies
+- May 25.csv: 5000 companies
+- Sept 25.csv: 5000 companies
 
-**Assigned Files (All Complete):**
-- June 26.csv (5001 rows)
-- March 25.csv (5001 rows)
-- March 26.csv (5001 rows)
-- May 25.csv (5001 rows)
-- Sept 25.csv (5001 rows)
+**Total: 25,000 companies enriched**
 
-All assigned files have been fully processed and enriched. No further work required.
-
-Routine stopped claiming additional work.
+Completion date: 2026-11-03
