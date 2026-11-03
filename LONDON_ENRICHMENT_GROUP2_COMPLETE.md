@@ -1,14 +1,13 @@
 # London Enrichment Group 2 - Complete
 
-**Completed:** 2026-11-03
+All assigned files have been fully processed and enriched:
 
-**Files processed:**
-- Dec 25.csv: 5001 rows (including header)
-- Feb 25.csv: 5001 rows
-- Feb 26.csv: 5001 rows
-- Jan 25.csv: 5001 rows
-- Nov 25.csv: 5001 rows
+- Dec 25.csv: 5000 companies ✓
+- Feb 25.csv: 5000 companies ✓
+- Feb 26.csv: 5000 companies ✓
+- Jan 25.csv: 5000 companies ✓
+- Nov 25.csv: 5000 companies ✓
 
-**Total companies enriched:** 20,000
+**Total: 25,000 companies enriched**
 
-All records enriched and written to London/Enriched/ with 14-column format: 11 source columns + website + email + match_confidence.
+Completed: 2026-11-03
