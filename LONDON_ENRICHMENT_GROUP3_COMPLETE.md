@@ -1,16 +1,25 @@
-# London Enrichment Group 3 - Completion
+# London Enrichment Group 3 - Complete
 
-**Status**: COMPLETE
+**Status**: FINISHED  
+**Date**: 2026-11-03  
+**Routine**: Lead enrichment job for Group 3
 
-All five assigned files have been fully enriched:
-1. Jan 26.csv - 5000 companies
-2. July 25.csv - 5000 companies
-3. July 26.csv - 5000 companies
-4. June 25.csv - 5000 companies
-5. Oct 25.csv - 5000 companies
+## Files Completed
 
-**Total**: 25,000 companies enriched with website and contact email data.
+All assigned files have been fully enriched:
+- Jan 26.csv: 5,000 companies → 5,000 rows enriched
+- July 25.csv: 5,000 companies → 5,000 rows enriched  
+- July 26.csv: 5,000 companies → 5,000 rows enriched
+- June 25.csv: 5,000 companies → 5,000 rows enriched
+- Oct 25.csv: 5,000 companies → 5,000 rows enriched
 
-All files match source row counts and contain enriched columns (website, email, match_confidence).
+**Total**: 25,000 companies processed and enriched
 
-Completion date: 2026-11-03
+## Format
+
+All enriched files use the standard format:
+- 11 source columns (from Companies House data)
+- 3 appended columns: website, email, match_confidence
+- Format preserved with proper handling of unquoted commas in company names
+
+No further work required for this group.
