@@ -1,15 +1,14 @@
 # London Enrichment Group 4 - Complete
 
-All assigned lead-enrichment files for Group 4 have been fully processed and completed:
+This routine has completed all assigned files for the lead-enrichment job.
 
-1. ✓ June 26.csv - 5000 rows enriched
-2. ✓ March 25.csv - 5000 rows enriched
-3. ✓ March 26.csv - 5000 rows enriched
-4. ✓ May 25.csv - 5000 rows enriched
-5. ✓ Sept 25.csv - 5000 rows enriched
+**Files completed:**
+- June 26.csv (5001 rows)
+- March 25.csv (5001 rows)
+- March 26.csv (5001 rows)
+- May 25.csv (5001 rows)
+- Sept 25.csv (5001 rows)
 
-**Total: 25,000 companies processed**
+**Status:** All enriched files match source row counts. No further work required for this group.
 
-All files have been written to `London/Enriched/` with website, email, and match_confidence columns appended per specification.
-
-Completion date: 2026-11-03
+Completion timestamp: 2026-11-03
