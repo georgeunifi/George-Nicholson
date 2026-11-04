@@ -1,11 +1,12 @@
-# London Enrichment Group 2 - COMPLETE
+# London Enrichment Group 2 - Complete
 
-Completed on 2026-11-04. All 5 assigned files have been processed to full row count:
+All assigned files completed:
+- Dec 25.csv: 5001 rows
+- Feb 25.csv: 5001 rows
+- Feb 26.csv: 5001 rows
+- Jan 25.csv: 5001 rows
+- Nov 25.csv: 5001 rows
 
-- Dec 25.csv: 5001 lines (5000 companies + header) ✓
-- Feb 25.csv: 5001 lines (5000 companies + header) ✓
-- Feb 26.csv: 5001 lines (5000 companies + header) ✓
-- Jan 25.csv: 5001 lines (5000 companies + header) ✓
-- Nov 25.csv: 5001 lines (5000 companies + header) ✓
+Completed at: 2026-11-04
 
-All source rows have been processed and appended with website, email, and match_confidence columns. This group is ready for verification or handoff.
+This routine has finished processing all assigned files and is releasing the work.
