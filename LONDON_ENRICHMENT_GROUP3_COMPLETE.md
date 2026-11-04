@@ -1,20 +1,13 @@
 # London Enrichment Group 3 - Complete
 
-This group's assigned files have been fully processed and enriched:
+This enrichment job is complete. All assigned files have been processed:
 
-1. Jan 26.csv - 5000 companies (Complete)
-2. July 25.csv - 5000 companies (Complete)
-3. July 26.csv - 5000 companies (Complete)
-4. June 25.csv - 5000 companies (Complete)
-5. Oct 25.csv - 5000 companies (Complete)
+- Jan 26.csv: 5,000 companies enriched
+- July 25.csv: 5,000 companies enriched
+- July 26.csv: 5,000 companies enriched
+- June 25.csv: 5,000 companies enriched
+- Oct 25.csv: 5,000 companies enriched
 
-**Total: 25,000 companies enriched with website and email data**
+Total: 25,000 companies with website and email information.
 
-All files have been verified against source row counts. Enriched files contain:
-- Original 11 source columns
-- website (found via WebSearch)
-- email (extracted from search results)
-- match_confidence (Confirmed/Likely/blank)
-
-Completion date: 2026-11-04
-Status: All work assigned to this group is complete.
+Date completed: 2026-11-04
