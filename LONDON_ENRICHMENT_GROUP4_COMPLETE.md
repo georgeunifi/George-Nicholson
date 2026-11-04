@@ -1,16 +1,12 @@
-# London Enrichment Group 4 - Complete
+# London Enrichment Group 4 - Completion Notice
 
-This work batch has been fully completed as of 2026-11-03.
+Enrichment job fully completed for assigned files on 2026-11-04.
 
-All five assigned files have been enriched and processed:
-- June 26.csv: 5000 companies
-- March 25.csv: 5000 companies
-- March 26.csv: 5000 companies
-- May 25.csv: 5000 companies
-- Sept 25.csv: 5000 companies
+**Files processed (all complete):**
+- June 26.csv: 5000 rows enriched
+- March 25.csv: 5000 rows enriched
+- March 26.csv: 5000 rows enriched
+- May 25.csv: 5000 rows enriched
+- Sept 25.csv: 5000 rows enriched
 
-**Total: 25,000 companies processed**
-
-Row counts verified: source and enriched files match exactly (5001 rows each, including header).
-
-No further work required for this group.
+All enriched output files match source row counts exactly. No further work required for this group.
