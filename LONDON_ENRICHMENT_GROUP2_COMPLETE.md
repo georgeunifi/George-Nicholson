@@ -1,19 +1,14 @@
-# London Enrichment Group 2 - Complete
+# Group 2 Enrichment Complete
 
-**Date:** 2026-11-04 14:10 UTC
+All assigned files for Group 2 have been completed with website, email, and match_confidence data.
 
-## Files Completed
-All five assigned files have been fully enriched and are ready:
+**Files completed:**
+- Dec 25.csv (5000 companies)
+- Feb 25.csv (5000 companies)
+- Feb 26.csv (5000 companies)
+- Jan 25.csv (5000 companies)
+- Nov 25.csv (5000 companies)
 
-1. Dec 25.csv - 5,000 companies ✓
-2. Feb 25.csv - 5,000 companies ✓
-3. Feb 26.csv - 5,000 companies ✓
-4. Jan 25.csv - 5,000 companies ✓
-5. Nov 25.csv - 5,000 companies ✓
+**Total: 25,000 companies enriched**
 
-**Total:** 25,000 companies enriched with website and email data.
-
-## Status
-All enriched output files are in `London/Enriched/` with the standard format: source columns + website + email + match_confidence.
-
-Work on Group 2 is complete. No further action required.
+Completed: 2026-11-04 15:12:26 UTC
