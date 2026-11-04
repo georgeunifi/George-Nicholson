@@ -1,9 +1,9 @@
 company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 ENERGY NGEN LTD,16907253,active,ltd,,,2025-12-12,,2025-12-12,[71122, 71129,,,
-DTC AI SOLUTIONS LIMITED,16906072,active,ltd,,,2025-12-12,,2025-12-12,[62020, 62090],,,
+DTC AI SOLUTIONS LIMITED,16906072,active,ltd,,,2025-12-12,,2025-12-12,[62020, 62090],dtcaisolutions.com,,Confirmed
 CINNAMON MIDCO LIMITED,16893154,active,ltd,,,2025-12-05,,2025-12-05,[64209],24 Adam & Eve Mews London United Kingdom W8 6UJ,,,
-S-VITALS GLOBAL LIMITED,16906674,active,ltd,,,2025-12-12,,2025-12-12,[47910],167-169 Great Portland Street London W1W 5PF,,,
-JAKOWEB LTD,16910017,active,ltd,,,2025-12-15,,2025-12-15,[47910, 62012,,,
+S-VITALS GLOBAL LIMITED,16906674,active,ltd,,,2025-12-12,,2025-12-12,[47910],167-169 Great Portland Street London W1W 5PF,remuneltd.co.uk,,Confirmed
+JAKOWEB LTD,16910017,active,ltd,,,2025-12-15,,2025-12-15,[47910, 62012,monarchconsultancy.uk,,Likely
 VH MOBILE LTD.,16893898,active,ltd,,,2025-12-05,,2025-12-05,[62012],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
 GG-211-109 LIMITED,16917600,active,ltd,,,2025-12-17,,2025-12-17,[68209],C/O Getground London England W6 0NB,,,
 DEFINITYX UK LTD,16926468,active,ltd,,,2025-12-22,,2025-12-22,[70229],1 Canada Square London England E14 5AE,,,
