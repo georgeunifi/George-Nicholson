@@ -1,7 +1,8 @@
-# Group 4 Enrichment - Complete
+# London Enrichment Group 4 - COMPLETE
 
-All five assigned CSV files have been fully enriched and verified:
+All assigned files fully enriched and committed to origin/main.
 
+**Files completed:**
 - June 26.csv: 5000 companies (5001 rows including header)
 - March 25.csv: 5000 companies (5001 rows including header)
 - March 26.csv: 5000 companies (5001 rows including header)
@@ -10,6 +11,6 @@ All five assigned CSV files have been fully enriched and verified:
 
 **Total: 25,000 companies enriched**
 
-Enriched files are in `London/Enriched/` with columns: company_name, company_number, company_status, company_type, company_subtype, dissolution_date, incorporation_date, removed_date, registered_date, nature_of_business, registered_office_address, website, email, match_confidence.
+All files verified to have matching source and enriched row counts.
 
-This group claims no further work.
+Completed: 2026-11-04
