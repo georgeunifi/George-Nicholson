@@ -1,12 +1,14 @@
-# London Enrichment Group 4 - Completion Marker
+# London Enrichment Group 4 - Complete
 
-**Completed at:** 2026-11-04
+Scheduled lead-enrichment routine completed at 2026-11-04.
 
-All five assigned CSV files have been fully enriched with website and email data:
-- June 26.csv ✓
-- March 25.csv ✓
-- March 26.csv ✓
-- May 25.csv ✓
-- Sept 25.csv ✓
+All assigned CSV files fully enriched:
+- June 26.csv: 5000 companies (5001 rows incl. header)
+- March 25.csv: 5000 companies (5001 rows incl. header)
+- March 26.csv: 5000 companies (5001 rows incl. header)
+- May 25.csv: 5000 companies (5001 rows incl. header)
+- Sept 25.csv: 5000 companies (5001 rows incl. header)
 
-Group 4 enrichment is complete. All 25,000 companies have been processed.
+Total: 25,000 companies enriched with website and email data.
+
+This routine is complete and available for reassignment.
