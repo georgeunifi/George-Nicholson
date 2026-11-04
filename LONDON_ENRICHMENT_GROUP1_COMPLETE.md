@@ -1,14 +1,14 @@
 # London Enrichment Group 1 - Complete
 
-**All assigned files finished:**
-- April 25.csv: 5000 companies (5001 lines with header)
-- April 26.csv: 5000 companies (5001 lines with header)
-- Aug 25.csv: 5000 companies (5001 lines with header)
-- Dec 24.csv: 5000 companies (5001 lines with header)
-- May 26.csv: 5000 companies (5001 lines with header)
+All assigned files for this enrichment group have been completed.
 
-**Total: 25,000 companies processed**
+**Completed files:**
+- April 25.csv: 5001 rows
+- April 26.csv: 5001 rows
+- Aug 25.csv: 5001 rows
+- Dec 24.csv: 5001 rows
+- May 26.csv: 5001 rows
 
-All source files have been mapped to enriched CSV format with website, email, and match_confidence columns appended. Row counts match source files exactly (5001 lines = 5000 data rows + 1 header).
+All companies enriched with website, email, and match_confidence data where available.
 
 Completed: 2026-11-04
