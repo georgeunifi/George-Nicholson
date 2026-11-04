@@ -1,3 +1,4 @@
+company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 JOIN PARURE LTD,17201320,active,ltd,,,2026-05-06,,2026-05-06,[96090],71-75 Shelton Street London United Kingdom WC2H 9JQ,joinparure.ink,,Likely
 WINNOW ARCHIVE LIMITED,17201321,active,ltd,,,2026-05-06,,2026-05-06,[47910],123 Peel Road London United Kingdom E18 2LJ,winnowarchive.com,,Likely
 FIDELITY AUTOS LTD,17201302,active,ltd,,,2026-05-06,,2026-05-06,[45112],8c Hayland Close London United Kingdom NW9 0LH,,,  
