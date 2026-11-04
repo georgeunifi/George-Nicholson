@@ -1,14 +1,12 @@
 # Group 2 Enrichment Complete
 
-All assigned files for Group 2 have been completed with website, email, and match_confidence data.
+All five assigned files have been fully enriched:
+- Dec 25.csv: 5000 companies
+- Feb 25.csv: 5000 companies
+- Feb 26.csv: 5000 companies
+- Jan 25.csv: 5000 companies
+- Nov 25.csv: 5000 companies
 
-**Files completed:**
-- Dec 25.csv (5000 companies)
-- Feb 25.csv (5000 companies)
-- Feb 26.csv (5000 companies)
-- Jan 25.csv (5000 companies)
-- Nov 25.csv (5000 companies)
+Total: 25,000 companies enriched with website and email data.
 
-**Total: 25,000 companies enriched**
-
-Completed: 2026-11-04 15:12:26 UTC
+Enrichment job completed on 2026-11-04.
