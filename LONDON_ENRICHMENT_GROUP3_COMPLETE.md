@@ -1,14 +1,13 @@
 # London Enrichment Group 3 - Complete
 
-All assigned files have been fully enriched and row counts verified:
-- Jan 26.csv: 5000 companies enriched ✓
-- July 25.csv: 5000 companies enriched ✓
-- July 26.csv: 5000 companies enriched ✓
-- June 25.csv: 5000 companies enriched ✓
-- Oct 25.csv: 5000 companies enriched ✓
+All assigned CSV files have been fully enriched:
 
-**Total: 25,000 companies completed**
+- Jan 26.csv: 5001 rows (complete)
+- July 25.csv: 5001 rows (complete)
+- July 26.csv: 5001 rows (complete)
+- June 25.csv: 5001 rows (complete)
+- Oct 25.csv: 5001 rows (complete)
 
-All rows contain: company name, company number, status, type, subtype, dissolution date, incorporation date, removed date, registered date, nature of business, registered office address, website, email, match confidence.
+Enrichment includes website, email, and match_confidence columns for all companies.
 
-Job finished: 2026-11-05
+Completed: 2026-11-05
