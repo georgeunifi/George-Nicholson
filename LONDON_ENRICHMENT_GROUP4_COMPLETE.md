@@ -1,16 +1,15 @@
-# London Enrichment Group 4 - Completed
+# London Enrichment Group 4 - Complete
 
-**Date:** 2026-11-05
+This marker indicates that all assigned files for this enrichment routine have been completed:
 
-All five assigned files have been successfully enriched:
-- June 26.csv: 5,000 companies (5,001 rows including header)
-- March 25.csv: 5,000 companies (5,001 rows including header)
-- March 26.csv: 5,000 companies (5,001 rows including header)
-- May 25.csv: 5,000 companies (5,001 rows including header)
-- Sept 25.csv: 5,000 companies (5,001 rows including header)
+- June 26.csv: 5000 companies enriched
+- March 25.csv: 5000 companies enriched
+- March 26.csv: 5000 companies enriched
+- May 25.csv: 5000 companies enriched
+- Sept 25.csv: 5000 companies enriched
 
-**Total:** 25,000 companies enriched
+**Total: 25,000 companies processed**
 
-All enriched files are available in `London/Enriched/` directory with website, email, and match_confidence columns appended.
+All source rows have been matched with corresponding enriched entries containing website, email, and match_confidence data.
 
-This allocation is now fully complete. No additional work claimed.
+Completed: 2026-11-05
