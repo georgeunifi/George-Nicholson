@@ -1,12 +1,15 @@
-# London Enrichment Group 5 - COMPLETE
+# London Enrichment Group 5 - Complete
 
-All four assigned CSV files have been fully enriched with website, email, and match_confidence data:
+All assigned files have been fully enriched with website and email data.
 
-- May 26.csv: 5000 companies ✓
-- Nov 25.csv: 5000 companies ✓
-- Oct 25.csv: 5000 companies ✓
-- Sept 25.csv: 5000 companies ✓
+**Completed Files:**
+- May 26.csv (5,000 companies)
+- Nov 25.csv (5,000 companies)
+- Oct 25.csv (5,000 companies)
+- Sept 25.csv (5,000 companies)
 
-Total: 20,000 London companies enriched.
+**Total: 20,000 companies enriched**
 
-Completion confirmed: 2026-11-05
+Each file contains 14 columns: 11 source columns (from Companies House) + website + email + match_confidence
+
+Enrichment completed and verified 2026-11-05.
