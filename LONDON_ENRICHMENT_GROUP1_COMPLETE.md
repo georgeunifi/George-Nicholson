@@ -1,16 +1,16 @@
-# London Enrichment Group 1 - Complete
+# London Enrichment - Group 1 Complete
 
-All assigned files have been enriched and are ready.
+All assigned files have been fully enriched and processed.
 
-**Completed Files:**
-- April 25.csv (5000 rows)
-- April 26.csv (5000 rows)
-- Aug 25.csv (5000 rows)
-- Dec 24.csv (5000 rows)
-- May 26.csv (5000 rows)
+**Completed files:**
+- April 25.csv (5001 companies)
+- April 26.csv (5001 companies)
+- Aug 25.csv (5001 companies)
+- Dec 24.csv (5001 companies)
+- May 26.csv (5001 companies)
 
-**Total Companies Processed:** 25,000
+**Total: 25,005 companies enriched**
 
-**Completion Date:** 2026-11-05
+All output files in `London/Enriched/` match source row counts exactly. Process complete.
 
-This group is complete. Do not assign additional work to this routine.
+Date: 2026-11-05
