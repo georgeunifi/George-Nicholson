@@ -1,16 +1,16 @@
 company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence,
 ENERGY NGEN LTD,16907253,active,ltd,,,2025-12-12,,2025-12-12,[71122, 71129, 74909],Suite Ra01, 195-197 Wood Street Wood Street London England E17 3NU,"['', '']"
 DTC AI SOLUTIONS LIMITED,16906072,active,ltd,,,2025-12-12,,2025-12-12,[62020, 62090],43 Overstone Road London England W6 0AD,dtcaisolutions.com,,['Confirmed']
-CINNAMON MIDCO LIMITED,16893154,active,ltd,,,2025-12-05,,2025-12-05,[64209],24 Adam & Eve Mews London United Kingdom W8 6UJ,,,,
-S-VITALS GLOBAL LIMITED,16906674,active,ltd,,,2025-12-12,,2025-12-12,[47910],167-169 Great Portland Street London W1W 5PF,,,,
+CINNAMON MIDCO LIMITED,16893154,active,ltd,,,2025-12-05,,2025-12-05,[64209],24 Adam & Eve Mews London United Kingdom W8 6UJ,,,
+S-VITALS GLOBAL LIMITED,16906674,active,ltd,,,2025-12-12,,2025-12-12,[47910],167-169 Great Portland Street London W1W 5PF,,,
 JAKOWEB LTD,16910017,active,ltd,,,2025-12-15,,2025-12-15,[47910, 62012, 62090, 63120],12 Hammersmith Grove London England W6 7AE,"['', '', '']"
-VH MOBILE LTD.,16893898,active,ltd,,,2025-12-05,,2025-12-05,[62012],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,,
-GG-211-109 LIMITED,16917600,active,ltd,,,2025-12-17,,2025-12-17,[68209],C/O Getground London England W6 0NB,,,,
-DEFINITYX UK LTD,16926468,active,ltd,,,2025-12-22,,2025-12-22,[70229],1 Canada Square London England E14 5AE,,,,
-GOLDERS GREEN LIMITED,16889075,active,ltd,,,2025-12-03,,2025-12-03,[68209],8a Electric Avenue London England SW9 8JX,,,,
-SABALAN PROPERTY LTD,16884660,active,ltd,,,2025-12-01,,2025-12-01,[68320],124 City Road City Road London England EC1V 2NX,,,,
-DCIUK LTD,16918875,active,ltd,,,2025-12-18,,2025-12-18,[47910],Suite Ra01 195-197 Wood Street London England E17 3NU,,,,
-AXIA FINANCIAL LIMITED,16892753,active,ltd,,,2025-12-05,,2025-12-05,[66220],124 City Road London England EC1V 2NX,,,,
+VH MOBILE LTD.,16893898,active,ltd,,,2025-12-05,,2025-12-05,[62012],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
+GG-211-109 LIMITED,16917600,active,ltd,,,2025-12-17,,2025-12-17,[68209],C/O Getground London England W6 0NB,,,
+DEFINITYX UK LTD,16926468,active,ltd,,,2025-12-22,,2025-12-22,[70229],1 Canada Square London England E14 5AE,,,
+GOLDERS GREEN LIMITED,16889075,active,ltd,,,2025-12-03,,2025-12-03,[68209],8a Electric Avenue London England SW9 8JX,,,
+SABALAN PROPERTY LTD,16884660,active,ltd,,,2025-12-01,,2025-12-01,[68320],124 City Road City Road London England EC1V 2NX,,,
+DCIUK LTD,16918875,active,ltd,,,2025-12-18,,2025-12-18,[47910],Suite Ra01 195-197 Wood Street London England E17 3NU,,,
+AXIA FINANCIAL LIMITED,16892753,active,ltd,,,2025-12-05,,2025-12-05,[66220],124 City Road London England EC1V 2NX,,,
 REMUNE LIMITED,16919075,active,ltd,,,2025-12-18,,2025-12-18,[46510, 62020],8 Greatorex Street London United Kingdom E1 5NF,,,
 MONARCH CONSULTANCY LTD,16906040,active,ltd,,,2025-12-12,,2025-12-12,[69109, 96090],167-169 Great Portland Street 5th Floor London England W1W 5PF,,,
 999 DIGITAL LTD,16923863,active,ltd,,,2025-12-21,,2025-12-21,[47910, 47990],Flat 1 Finsbury House London England N22 8DT,,,['']
