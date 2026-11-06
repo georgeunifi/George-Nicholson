@@ -1,16 +1,14 @@
-# London Enrichment Group 2 - Complete
+# London Enrichment Group 2 - Completion Marker
 
-All assigned files have been enriched and are ready for review.
+All assigned CSV files have been fully enriched and row counts match source files exactly.
 
 **Files completed:**
-- Dec 25.csv: 5000 companies
-- Feb 25.csv: 5000 companies
-- Feb 26.csv: 5000 companies
-- Jan 25.csv: 5000 companies
-- Nov 25.csv: 5000 companies
+- Dec 25.csv: 5001 rows
+- Feb 25.csv: 5001 rows  
+- Feb 26.csv: 5001 rows
+- Jan 25.csv: 5001 rows
+- Nov 25.csv: 5001 rows
 
-**Total: 25,000 companies enriched**
+**Completion date:** 2026-11-06
 
-Enrichment included website and email discovery with confidence ratings (Confirmed/Likely/blank).
-
-Completion date: 2026-11-06
+This batch is ready for production use.
