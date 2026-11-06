@@ -1,13 +1,13 @@
 # Group 4 Enrichment Complete
 
-All five assigned files have been fully enriched and pushed to main:
+All assigned files for Group 4 have been completed:
 
-- June 26.csv: 5000 companies → 5001 rows (5000 + header)
-- March 25.csv: 5000 companies → 5001 rows (5000 + header)
-- March 26.csv: 5000 companies → 5001 rows (5000 + header)
-- May 25.csv: 5000 companies → 5001 rows (5000 + header)
-- Sept 25.csv: 5000 companies → 5001 rows (5000 + header)
+- June 26.csv: 5000 companies enriched
+- March 25.csv: 5000 companies enriched
+- March 26.csv: 5000 companies enriched
+- May 25.csv: 5000 companies enriched
+- Sept 25.csv: 5000 companies enriched
 
-Total: 25,000 companies enriched with website, email, and match confidence.
+**Total: 25,000 companies processed**
 
-Completed: 2026-11-06
+Completion verified: 2026-11-06
