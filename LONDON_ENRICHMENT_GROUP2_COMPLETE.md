@@ -1,13 +1,14 @@
-# London Enrichment Group 2 - COMPLETE
+# London Enrichment Group 2 - Complete
 
-This enrichment job is complete. All five assigned files have been processed and match source row counts:
+All assigned files have been fully enriched as of 2026-11-06.
 
-- Dec 25.csv: 5001 rows ✓
-- Feb 25.csv: 5001 rows ✓
-- Feb 26.csv: 5001 rows ✓
-- Jan 25.csv: 5001 rows ✓
-- Nov 25.csv: 5001 rows ✓
+**Completed files:**
+- Dec 25.csv (5000 companies)
+- Feb 25.csv (5000 companies)
+- Feb 26.csv (5000 companies)
+- Jan 25.csv (5000 companies)
+- Nov 25.csv (5000 companies)
 
-All companies enriched with website and email data where available.
+**Total:** 25,000 companies enriched
 
-Completion date: 2026-11-06
+All source rows now have matching enriched output rows with website, email, and match_confidence columns appended.
