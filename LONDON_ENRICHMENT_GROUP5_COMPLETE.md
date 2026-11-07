@@ -1,12 +1,12 @@
 # London Enrichment Group 5 - Complete
 
-All assigned files have been fully enriched and completed:
+All assigned files have been enriched and completed:
 
-- May 26.csv: 5001 rows
-- Nov 25.csv: 5001 rows
-- Oct 25.csv: 5001 rows
-- Sept 25.csv: 5001 rows
+- May 26.csv: 5000 companies enriched ✓
+- Nov 25.csv: 5000 companies enriched ✓
+- Oct 25.csv: 5000 companies enriched ✓
+- Sept 25.csv: 5000 companies enriched ✓
 
-Total companies enriched: 20,004
+**Total: 20,000 London companies enriched**
 
-This work is ready for validation and next steps.
+This group is ready for next phase processing.
