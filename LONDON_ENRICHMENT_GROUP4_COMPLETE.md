@@ -1,11 +1,13 @@
-# Group 4 Enrichment Complete
+# London Enrichment Group 4 - Complete
 
-All assigned files processed and enriched:
-- June 26.csv: 5,000 companies
-- March 25.csv: 5,000 companies  
-- March 26.csv: 5,000 companies
-- May 25.csv: 5,000 companies
-- Sept 25.csv: 5,000 companies
+All five assigned files have been enriched and are ready for use:
 
-Total: 25,000 companies enriched with website and email data.
-Completion date: 2026-11-06
+- June 26.csv: 5000 companies processed
+- March 25.csv: 5000 companies processed
+- March 26.csv: 5000 companies processed
+- May 25.csv: 5000 companies processed
+- Sept 25.csv: 5000 companies processed
+
+Each file contains website URLs, contact emails (where found), and match confidence levels (Confirmed/Likely/blank).
+
+Enrichment completed: 2026-11-07
