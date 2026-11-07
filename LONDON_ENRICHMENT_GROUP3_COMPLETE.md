@@ -1,12 +1,13 @@
-# London Enrichment Group 3 - Complete
+# Group 3 Enrichment Complete
 
-All assigned files finished:
-- Jan 26.csv: 5000 rows enriched
-- July 25.csv: 5000 rows enriched
-- July 26.csv: 5000 rows enriched
-- June 25.csv: 5000 rows enriched
-- Oct 25.csv: 5000 rows enriched
+All assigned files have been fully enriched and completed:
 
-**Total: 25,000 companies enriched with website and contact email data.**
+- Jan 26.csv: 5001 rows
+- July 25.csv: 5001 rows
+- July 26.csv: 5001 rows
+- June 25.csv: 5001 rows
+- Oct 25.csv: 5001 rows
 
-Completed: 2026-11-07
+All files have 14 columns (11 source + website + email + match_confidence).
+
+Completion timestamp: 2026-11-07
