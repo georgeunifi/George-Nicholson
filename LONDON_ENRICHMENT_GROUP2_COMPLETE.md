@@ -1,10 +1,14 @@
 # London Enrichment Group 2 - Complete
 
-This group has finished all assigned CSV enrichment work:
-- Dec 25.csv: ✓ Complete
-- Feb 25.csv: ✓ Complete
-- Feb 26.csv: ✓ Complete
-- Jan 25.csv: ✓ Complete
-- Nov 25.csv: ✓ Complete
+All assigned files have been fully enriched and processed.
 
-Completed: 2026-11-07
+**Files completed:**
+- Dec 25.csv (5001 rows)
+- Feb 25.csv (5001 rows)
+- Feb 26.csv (5001 rows)
+- Jan 25.csv (5001 rows)
+- Nov 25.csv (5001 rows)
+
+Completion confirmed: 2026-11-07
+
+This marker indicates that London Enrichment Group 2's full workload is finished and no further processing is required for this batch.
