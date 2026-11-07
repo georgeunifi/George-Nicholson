@@ -1,16 +1,16 @@
 company_name,company_number,company_status,company_type,company_subtype,dissolution_date,incorporation_date,removed_date,registered_date,nature_of_business,registered_office_address,website,email,match_confidence
 SOCIAL WORK PARTNERS PAYROLL LTD,16978022,active,ltd,,,2026-01-21,,2026-01-21,[78200, 78300],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
-MAMASHAKES LTD,16939373,active,ltd,,,2026-01-02,,2026-01-02,[85520, 86900, 90010],Suite 53c, Unimix House London England NW10 7TR,,,
-FA 313 INVESTMENTS LTD,16962248,active,ltd,,,2026-01-14,,2026-01-14,[70210, 70229, 96090],Hoxton Mix London England EC2A 4NA,,,
+MAMASHAKES LTD,16939373,active,ltd,,,2026-01-02,,2026-01-02,[85520, 86900,,,Likely
+FA 313 INVESTMENTS LTD,16962248,active,ltd,,,2026-01-14,,2026-01-14,[70210, 70229,,,Likely
 AL-SALWI LTD,16979844,active,ltd,,,2026-01-21,,2026-01-21,[47910],Flat 17 Allbrook House London England SW15 4HB,,,
 FOSTER STRATEGIES 1000 LTD,16960959,active,ltd,,,2026-01-13,,2026-01-13,[68209],28a Devonshire Street London England W1G 6PS,,,
-PROPERTY POUCH LTD,16988098,active,ltd,,,2026-01-26,,2026-01-26,[68209],167-169 Great Portland Street London W1W 5PF,,,
+PROPERTY POUCH LTD,16988098,active,ltd,,,2026-01-26,,2026-01-26,[68209],167-169 Great Portland Street London W1W 5PF,,,Likely
 SABI JEWELLERS LTD,16983106,active,ltd,,,2026-01-23,,2026-01-23,[47770],124 City Road London United Kingdom EC1V 2NX,,,
-PIXPIPRINT LTD,16960013,active,ltd,,,2026-01-13,,2026-01-13,[18129, 47190, 74100],50 South Mall London England N9 0TN,pixpiprint.com,,Likely
+PIXPIPRINT LTD,16960013,active,ltd,,,2026-01-13,,2026-01-13,[18129, 47190,sabijewels.co.uk,,Likely
 NADEEM BUTCHERS LTD,16992477,active,ltd,,,2026-01-27,,2026-01-27,[47210, 47220, 47240],42-44 Ridley Road London England E8 2NR,,,
-RIOT BABY EP LIMITED,16945592,active,ltd,,,2026-01-06,,2026-01-06,[59111, 90030],130 Shaftesbury Avenue London United Kingdom W1D 5EU,,,
-MARVIC HOMES LTD,16972556,active,ltd,,,2026-01-19,,2026-01-19,[41100, 68100, 68201, 68209],71-75 Shelton Street London United Kingdom WC2H 9JQ,,,
-HHE WELLBEING LTD,16972567,active,ltd,,,2026-01-19,,2026-01-19,[86900],167-169 Great Portland Street London England W1W 5PF,,,
+RIOT BABY EP LIMITED,16945592,active,ltd,,,2026-01-06,,2026-01-06,[59111, 90030],,,
+MARVIC HOMES LTD,16972556,active,ltd,,,2026-01-19,,2026-01-19,[41100, 68100,,,Likely
+HHE WELLBEING LTD,16972567,active,ltd,,,2026-01-19,,2026-01-19,[86900],167-169 Great Portland Street London England W1W 5PF,,,Likely
 SURECODE SOFTWARE UK LIMITED,16974640,active,ltd,,,2026-01-20,,2026-01-20,[62012],128 City Road London United Kingdom EC1V 2NX,surecodesoftware.com,info@surecodesoftware.com,Confirmed
 SOUGHT & SEEKERS RECRUITMENT LTD,16975849,active,ltd,,,2026-01-20,,2026-01-20,[78109],3rd Floor, 86-90 Paul Street London United Kingdom EC2A 4NE,sought.co.uk,,Likely
 192 LIVING LIMITED,16976153,active,ltd,,,2026-01-20,,2026-01-20,[43390, 68209, 68320, 81100],64 Ladbroke Road London England W11 3NR,,,
