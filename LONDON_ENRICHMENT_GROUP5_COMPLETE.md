@@ -1,14 +1,13 @@
-# London Enrichment Group 5 Complete
+# London Enrichment Group 5 - COMPLETE
 
-All assigned files have been fully enriched with website and email data.
+All assigned files enriched with websites and contact emails.
 
-- May 26.csv: 5000 companies enriched
-- Nov 25.csv: 5000 companies enriched
-- Oct 25.csv: 5000 companies enriched
-- Sept 25.csv: 5000 companies enriched
+**Files completed:**
+- May 26.csv (5000 companies)
+- Nov 25.csv (5000 companies)
+- Oct 25.csv (5000 companies)
+- Sept 25.csv (5000 companies)
 
-**Total: 20,000 companies processed**
+**Total:** 20,000 companies enriched
 
-All enriched files written to London/Enriched/ with match_confidence ratings.
-
-Task completed: 2026-11-07
+Completion timestamp: 2026-11-19
