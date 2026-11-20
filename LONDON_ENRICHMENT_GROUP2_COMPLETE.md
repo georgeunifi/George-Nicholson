@@ -1,14 +1,14 @@
 # London Enrichment Group 2 - Complete
 
-Completion timestamp: 2026-11-20
+**Completion Date:** 2026-11-20
 
-All five assigned files have been fully enriched and committed:
-- Dec 25.csv: 5001 rows
-- Feb 25.csv: 5001 rows
-- Feb 26.csv: 5001 rows
-- Jan 25.csv: 5001 rows
-- Nov 25.csv: 5001 rows
+All assigned files for this enrichment routine have been fully completed:
+- Dec 25.csv: 5000 companies (5001 rows with header)
+- Feb 25.csv: 5000 companies (5001 rows with header)
+- Feb 26.csv: 5000 companies (5001 rows with header)
+- Jan 25.csv: 5000 companies (5001 rows with header)
+- Nov 25.csv: 5000 companies (5001 rows with header)
 
-Enriched output files are in London/Enriched/ with format: 11 source columns + website, email, match_confidence.
+**Total:** 25,000 companies enriched with websites and contact emails.
 
-Task complete.
+All enriched files are available in `London/Enriched/` with 14-column format (11 source + website + email + match_confidence).
