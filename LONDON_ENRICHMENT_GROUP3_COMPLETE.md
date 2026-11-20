@@ -1,13 +1,16 @@
 # London Enrichment Group 3 - Complete
 
-All assigned enrichment files have been processed and are complete:
+All assigned files have been fully enriched and completed.
 
-- Jan 26.csv: 5000 companies (5001 rows incl. header)
-- July 25.csv: 5000 companies (5001 rows incl. header)
-- July 26.csv: 5000 companies (5001 rows incl. header)
-- June 25.csv: 5000 companies (5001 rows incl. header)
-- Oct 25.csv: 5000 companies (5001 rows incl. header)
+**Files completed:**
+- Jan 26.csv (5000 companies)
+- July 25.csv (5000 companies)
+- July 26.csv (5000 companies)
+- June 25.csv (5000 companies)
+- Oct 25.csv (5000 companies)
 
-**Total: 25,000 London companies enriched**
+**Total companies processed:** 25,000
 
-Completion marked: 2026-11-20
+**Status:** All work complete. Group 3 is finished.
+
+Completed on: 2026-11-20
