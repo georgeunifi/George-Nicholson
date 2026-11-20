@@ -1,12 +1,15 @@
-# London Enrichment Group 2 - Completion
+# London Enrichment Group 2 - Complete
 
-Completed on: 2026-11-20
+This group's assigned files have been successfully enriched:
 
-## Assigned Files
-- Dec 25.csv: ✓ Complete (5001 rows)
-- Feb 25.csv: ✓ Complete (5001 rows)
-- Feb 26.csv: ✓ Complete (5001 rows)
-- Jan 25.csv: ✓ Complete (5001 rows)
-- Nov 25.csv: ✓ Complete (5001 rows)
+- Dec 25.csv: 5000 companies (complete)
+- Feb 25.csv: 5000 companies (complete)  
+- Feb 26.csv: 5000 companies (complete)
+- Jan 25.csv: 5000 companies (complete)
+- Nov 25.csv: 5000 companies (complete)
 
-All enrichment work for this group is finished. No further processing required.
+**Total: 25,000 companies enriched**
+
+All enriched files are in `London/Enriched/` with the standard 14-column format.
+
+Completion timestamp: 2026-11-20
