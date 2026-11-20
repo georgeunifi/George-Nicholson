@@ -1,14 +1,14 @@
-# London Enrichment - Group 4 Complete
+# London Enrichment Group 4 Complete
 
-**Routine ID:** 2026-11-20 Session  
-**Files Processed:**
-- June 26.csv (5000 companies)
-- March 25.csv (5000 companies)
-- March 26.csv (5000 companies)
-- May 25.csv (5000 companies)
-- Sept 25.csv (5000 companies)
+**Status**: All assigned files fully enriched and committed to main.
 
-**Status:** All five files fully enriched and verified.  
-**Output:** London/Enriched/ contains all completed files with website, email, and match_confidence columns.
+## Files Completed
+- June 26.csv: 5000 companies (5001 rows including header)
+- March 25.csv: 5000 companies (5001 rows including header)
+- March 26.csv: 5000 companies (5001 rows including header)
+- May 25.csv: 5000 companies (5001 rows including header)
+- Sept 25.csv: 5000 companies (5001 rows including header)
 
-Group 4 work is complete.
+**Total**: 25,000 companies enriched with websites and contact emails.
+
+Completed: 2026-11-20
