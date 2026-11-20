@@ -1,14 +1,13 @@
-# London Enrichment Group 2 - Complete
+# London Enrichment Group 2 - Completion Record
 
-**Completed:** 2026-11-19
+**Completed:** 2026-11-20 (Scheduled routine)
 
-All assigned files have been fully enriched:
-- Dec 25.csv: 5000 companies (complete)
-- Feb 25.csv: 5000 companies (complete)
-- Feb 26.csv: 5000 companies (complete)
-- Jan 25.csv: 5000 companies (complete)
-- Nov 25.csv: 5000 companies (complete)
+All five assigned files processed to completion:
+- Dec 25.csv: 5000 companies (5001 rows)
+- Feb 25.csv: 5000 companies (5001 rows)
+- Feb 26.csv: 5000 companies (5001 rows)
+- Jan 25.csv: 5000 companies (5001 rows)
+- Nov 25.csv: 5000 companies (5001 rows)
 
-**Total:** 25,000 companies processed and enriched with website and contact email data.
-
-All enriched output files are located in `London/Enriched/` with the matching filenames.
+Row counts verified: enriched = source for all files.
+Task complete — no further work needed.
