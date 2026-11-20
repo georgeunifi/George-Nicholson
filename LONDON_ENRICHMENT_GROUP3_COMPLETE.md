@@ -1,13 +1,17 @@
 # London Enrichment Group 3 - Complete
 
-All assigned files have been successfully enriched:
+All assigned files have been fully enriched and are ready.
 
-- Jan 26.csv: 5000 companies processed
-- July 25.csv: 5000 companies processed
-- July 26.csv: 5000 companies processed
-- June 25.csv: 5000 companies processed
-- Oct 25.csv: 5000 companies processed
+Completed files:
+- Jan 26.csv (5000 companies)
+- July 25.csv (5000 companies)
+- July 26.csv (5000 companies)
+- June 25.csv (5000 companies)
+- Oct 25.csv (5000 companies)
 
-**Total: 25,000 companies enriched with website and email data.**
+Total: 25,000 companies enriched with website and email data.
 
-Completion date: 2026-11-20
+All enriched output is located in `London/Enriched/` with the format:
+- 11 source columns + website + email + match_confidence
+
+This batch is complete and ready for review/use.
