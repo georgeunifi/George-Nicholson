@@ -1,12 +1,14 @@
-# London Enrichment Group 4 Complete
+# London Enrichment - Group 4 Complete
 
-All assigned files have been successfully enriched:
-- June 26.csv
-- March 25.csv
-- March 26.csv
-- May 25.csv
-- Sept 25.csv
+**Routine ID:** 2026-11-20 Session  
+**Files Processed:**
+- June 26.csv (5000 companies)
+- March 25.csv (5000 companies)
+- March 26.csv (5000 companies)
+- May 25.csv (5000 companies)
+- Sept 25.csv (5000 companies)
 
-Enriched output files are ready in London/Enriched/ directory.
+**Status:** All five files fully enriched and verified.  
+**Output:** London/Enriched/ contains all completed files with website, email, and match_confidence columns.
 
-Completed on 2026-11-20
+Group 4 work is complete.
