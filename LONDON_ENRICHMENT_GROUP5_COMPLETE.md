@@ -1,15 +1,13 @@
 # London Enrichment Group 5 - Complete
 
-**Status:** ✅ All assigned files fully enriched and committed to main
+**Status**: ALL COMPLETE
 
-**Files processed:**
-- May 26.csv (5000 companies)
-- Nov 25.csv (5000 companies)
-- Oct 25.csv (5000 companies)
-- Sept 25.csv (5000 companies)
+**Assigned Files** (all 5000 companies enriched):
+- May 26.csv ✓
+- Nov 25.csv ✓
+- Oct 25.csv ✓
+- Sept 25.csv ✓
 
-**Total:** 20,000 companies enriched with websites, emails, and match_confidence scores
+**Completion Date**: 2026-11-20
 
-**Completion date:** 2026-11-20
-
-All enriched files are in `London/Enriched/` with the standard 14-column format (11 source + website + email + match_confidence).
+Group 5 lead enrichment job finished. All companies in assigned files have websites and contact emails recorded (or blank if not found in search results).
