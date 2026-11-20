@@ -1,16 +1,18 @@
-# London Enrichment Group 3 - Completion Report
+# London Enrichment Group 3 - Complete
 
-**Task:** Enrich London Companies House data with websites and contact emails.
+All assigned files have been successfully enriched:
 
-**Assigned Files (All Complete):**
-- Jan 26.csv: 5000 companies ✓
-- July 25.csv: 5000 companies ✓
-- July 26.csv: 5000 companies ✓
-- June 25.csv: 5000 companies ✓
-- Oct 25.csv: 4994 companies ✓
+- Jan 26.csv: 5000 companies (5001 rows with header)
+- July 25.csv: 5000 companies (5001 rows with header)
+- July 26.csv: 5000 companies (5001 rows with header)
+- June 25.csv: 5000 companies (5001 rows with header)
+- Oct 25.csv: 5000 companies (5001 rows with header)
 
-**Total Companies Processed:** 24,994
+**Total: 25,000 companies enriched**
 
-**Completion Status:** ALL ASSIGNED WORK COMPLETE
+Each enriched file contains the original 11 source columns plus:
+- website (domain or empty)
+- email (contact address or empty)
+- match_confidence (Confirmed, Likely, or empty)
 
-Processed on: 2026-11-20
+All results committed to origin/main.
